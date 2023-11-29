@@ -1,0 +1,1793 @@
+[
+    {
+        "time": "2023-09-16T00:02:16Z",
+        "msg": "got nothing, appts today: 2",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:07:22Z",
+        "msg": "got nothing, appts today: 2",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:12:28Z",
+        "msg": "got nothing, appts today: 2",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:17:34Z",
+        "msg": "got nothing, appts today: 2",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:22:40Z",
+        "msg": "got nothing, appts today: 2",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:27:45Z",
+        "msg": "got nothing, appts today: 2",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:32:52Z",
+        "msg": "got nothing, appts today: 3",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:37:57Z",
+        "msg": "got nothing, appts today: 3",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:43:03Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:48:08Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:53:14Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T00:58:20Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:03:26Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:08:31Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:13:36Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:18:42Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:23:49Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:28:54Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:34:00Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-15T22:00:00Z": {
+                "11:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T01:39:14Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:44:20Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:49:26Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:54:31Z",
+        "msg": "got nothing, appts today: 8",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T01:59:37Z",
+        "msg": "got nothing, appts today: 8",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:04:43Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:09:50Z",
+        "msg": "got nothing, appts today: 8",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:14:55Z",
+        "msg": "got nothing, appts today: 8",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:20:01Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:25:07Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:30:13Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:35:19Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:40:25Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:45:31Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:50:36Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T02:55:42Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:00:48Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:05:55Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:11:01Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:16:08Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:21:15Z",
+        "msg": "got nothing, appts today: 10",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:26:21Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:31:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "13:18": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T03:36:40Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:41:46Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:46:52Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:51:58Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T03:57:04Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:02:09Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:07:15Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:12:20Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:17:26Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:22:31Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:27:37Z",
+        "msg": "got nothing, appts today: 12",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:32:42Z",
+        "msg": "got nothing, appts today: 12",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:37:48Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:42:53Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:47:58Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:53:05Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T04:58:10Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T05:03:15Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "07:00": "B\u00fcrgeramt Rathaus Mitte",
+                "": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "07:12": "B\u00fcrgeramt Rathaus Mitte",
+                "07:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "07:36": "B\u00fcrgeramt Rathaus Mitte",
+                "07:48": "B\u00fcrgeramt Rathaus Mitte",
+                "08:00": "B\u00fcrgeramt Rathaus Mitte",
+                "08:12": "B\u00fcrgeramt Rathaus Mitte",
+                "08:24": "B\u00fcrgeramt Rathaus Mitte",
+                "08:36": "B\u00fcrgeramt Rathaus Mitte",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte",
+                "09:12": "B\u00fcrgeramt Rathaus Mitte",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte",
+                "09:36": "B\u00fcrgeramt Rathaus Mitte",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte",
+                "10:48": "B\u00fcrgeramt Rathaus Mitte",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte",
+                "13:00": "B\u00fcrgeramt Rathaus Mitte",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte",
+                "13:48": "B\u00fcrgeramt Rathaus Mitte",
+                "14:00": "B\u00fcrgeramt Rathaus Mitte",
+                "14:12": "B\u00fcrgeramt Rathaus Mitte"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:08:28Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-26T22:00:00Z": {
+                "12:00": "B\u00fcrgeramt Sch\u00f6neberg"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:13:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "07:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "07:12": "B\u00fcrgeramt Rathaus Mitte",
+                "": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "07:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "07:48": "B\u00fcrgeramt Rathaus Mitte",
+                "08:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Rathaus Mitte",
+                "08:36": "B\u00fcrgeramt Rathaus Mitte",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte",
+                "09:12": "B\u00fcrgeramt Rathaus Mitte",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte",
+                "09:36": "B\u00fcrgeramt Rathaus Mitte",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte",
+                "13:00": "B\u00fcrgeramt Rathaus Mitte",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte",
+                "13:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:18:57Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "07:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "07:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte",
+                "": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Rathaus Mitte",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte",
+                "09:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte",
+                "13:00": "B\u00fcrgeramt Rathaus Mitte",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte",
+                "13:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:24:10Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "07:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Rathaus Mitte",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte",
+                "": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Rathaus Mitte",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:29:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte",
+                "": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte",
+                "13:48": "B\u00fcrgeramt Rathaus Mitte"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:34:37Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "07:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:39:50Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:45:03Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:50:16Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "10:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T05:55:31Z",
+        "msg": "got nothing, appts today: 79",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T06:00:38Z",
+        "msg": "got nothing, appts today: 82",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T06:05:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:10:56Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-09T23:00:00Z": {
+                "09:00": "Mobiles B\u00fcrgeramt Hermsdorf"
+            },
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:16:10Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:21:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "10:06": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            },
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:26:36Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:31:49Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:37:02Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-15T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:42:11Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-15T22:00:00Z": {
+                "09:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe"
+            },
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:47:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:52:36Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T06:57:50Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T07:03:03Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T07:08:17Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T07:13:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T07:18:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T07:23:56Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "08:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T07:29:09Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "09:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T07:34:23Z",
+        "msg": "got nothing, appts today: 243",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T07:39:32Z",
+        "msg": "got nothing, appts today: 248",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T07:44:38Z",
+        "msg": "got nothing, appts today: 252",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T07:49:47Z",
+        "msg": "got nothing, appts today: 257",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T07:54:52Z",
+        "msg": "got nothing, appts today: 263",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T07:59:58Z",
+        "msg": "got nothing, appts today: 270",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T08:05:04Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "08:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "08:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "08:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "09:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "09:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "09:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T08:10:17Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "10:12": "B\u00fcrgeramt Tempelhof",
+                "10:24": "B\u00fcrgeramt Tempelhof",
+                "10:36": "B\u00fcrgeramt Tempelhof",
+                "10:48": "B\u00fcrgeramt Tempelhof",
+                "11:00": "B\u00fcrgeramt Tempelhof",
+                "11:12": "B\u00fcrgeramt Tempelhof",
+                "11:24": "B\u00fcrgeramt Tempelhof",
+                "11:36": "B\u00fcrgeramt Tempelhof",
+                "11:48": "B\u00fcrgeramt Tempelhof",
+                "12:12": "B\u00fcrgeramt Tempelhof",
+                "12:24": "B\u00fcrgeramt Tempelhof",
+                "12:36": "B\u00fcrgeramt Tempelhof",
+                "12:48": "B\u00fcrgeramt Tempelhof"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T08:15:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "10:24": "B\u00fcrgeramt Tempelhof",
+                "10:36": "B\u00fcrgeramt Tempelhof",
+                "10:48": "B\u00fcrgeramt Tempelhof",
+                "11:00": "B\u00fcrgeramt Tempelhof",
+                "11:12": "B\u00fcrgeramt Tempelhof",
+                "11:24": "B\u00fcrgeramt Tempelhof",
+                "11:36": "B\u00fcrgeramt Tempelhof",
+                "11:48": "B\u00fcrgeramt Tempelhof",
+                "12:00": "B\u00fcrgeramt Tempelhof",
+                "12:12": "B\u00fcrgeramt Tempelhof",
+                "12:24": "B\u00fcrgeramt Tempelhof",
+                "12:36": "B\u00fcrgeramt Tempelhof",
+                "12:48": "B\u00fcrgeramt Tempelhof"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T08:20:42Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "10:48": "B\u00fcrgeramt Tempelhof"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T08:25:57Z",
+        "msg": "got nothing, appts today: 429",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T08:31:03Z",
+        "msg": "got nothing, appts today: 448",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T08:36:08Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "10:40": "B\u00fcrgeramt Reinickendorf-Ost"
+            },
+            "2023-10-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T08:41:22Z",
+        "msg": "got nothing, appts today: 465",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T08:46:27Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "10:06": "B\u00fcrgeramt Helle Mitte",
+                "10:18": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Biesdorf - Center",
+                "10:36": "B\u00fcrgeramt Blaschkoallee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T08:51:40Z",
+        "msg": "got nothing, appts today: 486",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T08:56:45Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine"
+            },
+            "2023-09-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T09:01:59Z",
+        "msg": "got nothing, appts today: 505",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T09:07:05Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T09:12:18Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "09:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Tegel - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T09:17:31Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T09:22:46Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "11:00": "B\u00fcrgeramt Blaschkoallee"
+            },
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-09T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T09:27:58Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-10-11T22:00:00Z": {},
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T09:33:07Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "10:30": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T09:38:18Z",
+        "msg": "got nothing, appts today: 644",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T09:43:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "11:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T09:48:37Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "08:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T09:53:50Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-11-12T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T09:58:58Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-15T22:00:00Z": {
+                "12:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T10:04:12Z",
+        "msg": "got nothing, appts today: 706",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:09:17Z",
+        "msg": "got nothing, appts today: 713",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:14:22Z",
+        "msg": "got nothing, appts today: 716",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:19:28Z",
+        "msg": "got nothing, appts today: 726",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:24:33Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-15T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T10:29:42Z",
+        "msg": "got nothing, appts today: 738",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:34:48Z",
+        "msg": "got nothing, appts today: 743",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:39:53Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T10:45:03Z",
+        "msg": "got nothing, appts today: 754",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:50:09Z",
+        "msg": "got nothing, appts today: 761",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T10:55:15Z",
+        "msg": "got nothing, appts today: 774",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:00:27Z",
+        "msg": "got nothing, appts today: 785",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:05:34Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T11:10:47Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T11:16:00Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T11:21:13Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T11:26:21Z",
+        "msg": "got nothing, appts today: 846",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:31:28Z",
+        "msg": "got nothing, appts today: 851",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:36:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "11:48": "B\u00fcrgeramt Prenzlauer Berg - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lichtenrade"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T11:41:45Z",
+        "msg": "got nothing, appts today: 862",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:46:51Z",
+        "msg": "got nothing, appts today: 868",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:51:56Z",
+        "msg": "got nothing, appts today: 869",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T11:57:02Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "13:20": "B\u00fcrgeramt Heiligensee",
+                "13:42": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T12:02:16Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "14:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T12:07:29Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "14:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T12:12:42Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "13:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T12:17:54Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "14:00": "B\u00fcrgeramt Sch\u00f6neberg"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T12:23:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "14:12": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T12:28:20Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "14:24": "B\u00fcrgeramt Tempelhof"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T12:33:32Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "13:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T12:38:45Z",
+        "msg": "got nothing, appts today: 959",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T12:43:51Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T12:48:59Z",
+        "msg": "got nothing, appts today: 968",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T12:54:05Z",
+        "msg": "got nothing, appts today: 975",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T12:59:12Z",
+        "msg": "got nothing, appts today: 979",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:04:17Z",
+        "msg": "got nothing, appts today: 983",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:09:23Z",
+        "msg": "got nothing, appts today: 988",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:14:29Z",
+        "msg": "got nothing, appts today: 991",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:19:35Z",
+        "msg": "got nothing, appts today: 1000",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:24:40Z",
+        "msg": "got nothing, appts today: 1003",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:29:46Z",
+        "msg": "got nothing, appts today: 1007",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:34:52Z",
+        "msg": "got nothing, appts today: 1015",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:39:57Z",
+        "msg": "got nothing, appts today: 1018",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:45:03Z",
+        "msg": "got nothing, appts today: 1020",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:50:09Z",
+        "msg": "got nothing, appts today: 1022",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T13:55:15Z",
+        "msg": "got nothing, appts today: 1026",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:00:21Z",
+        "msg": "got nothing, appts today: 1029",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:05:26Z",
+        "msg": "got nothing, appts today: 1032",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:10:32Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T14:15:41Z",
+        "msg": "got nothing, appts today: 1039",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:20:47Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T14:26:01Z",
+        "msg": "got nothing, appts today: 1046",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:31:07Z",
+        "msg": "got nothing, appts today: 1048",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:36:12Z",
+        "msg": "got nothing, appts today: 1050",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:41:18Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            },
+            "2023-10-08T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T14:46:32Z",
+        "msg": "got nothing, appts today: 1057",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:51:37Z",
+        "msg": "got nothing, appts today: 1059",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T14:56:43Z",
+        "msg": "got nothing, appts today: 1060",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:01:49Z",
+        "msg": "got nothing, appts today: 1063",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:06:55Z",
+        "msg": "got nothing, appts today: 1064",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:12:00Z",
+        "msg": "got nothing, appts today: 1066",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:17:06Z",
+        "msg": "got nothing, appts today: 1068",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:22:12Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "14:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T15:27:25Z",
+        "msg": "got nothing, appts today: 1075",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:32:31Z",
+        "msg": "got nothing, appts today: 1079",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:37:36Z",
+        "msg": "got nothing, appts today: 1084",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:42:42Z",
+        "msg": "got nothing, appts today: 1089",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:47:48Z",
+        "msg": "got nothing, appts today: 1090",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T15:52:54Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "12:24": "B\u00fcrgeramt Blaschkoallee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T15:58:07Z",
+        "msg": "got nothing, appts today: 1096",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:03:12Z",
+        "msg": "got nothing, appts today: 1098",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:08:19Z",
+        "msg": "got nothing, appts today: 1103",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:13:24Z",
+        "msg": "got nothing, appts today: 1108",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:18:30Z",
+        "msg": "got nothing, appts today: 1110",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:23:36Z",
+        "msg": "got nothing, appts today: 1113",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:28:41Z",
+        "msg": "got nothing, appts today: 1115",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:33:47Z",
+        "msg": "got nothing, appts today: 1116",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:38:52Z",
+        "msg": "got nothing, appts today: 1121",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:43:58Z",
+        "msg": "got nothing, appts today: 1126",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:49:04Z",
+        "msg": "got nothing, appts today: 1134",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:54:09Z",
+        "msg": "got nothing, appts today: 1137",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T16:59:15Z",
+        "msg": "got nothing, appts today: 1139",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:04:20Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-25T22:00:00Z": {
+                "16:36": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T17:09:34Z",
+        "msg": "got nothing, appts today: 1144",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:14:39Z",
+        "msg": "got nothing, appts today: 1147",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:19:45Z",
+        "msg": "got nothing, appts today: 1150",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:24:51Z",
+        "msg": "got nothing, appts today: 1152",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:29:57Z",
+        "msg": "got nothing, appts today: 1153",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:35:02Z",
+        "msg": "got nothing, appts today: 1158",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:40:08Z",
+        "msg": "got nothing, appts today: 1163",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:45:14Z",
+        "msg": "got nothing, appts today: 1165",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:50:20Z",
+        "msg": "got nothing, appts today: 1166",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T17:55:26Z",
+        "msg": "got nothing, appts today: 1169",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:00:32Z",
+        "msg": "got nothing, appts today: 1171",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:05:37Z",
+        "msg": "got nothing, appts today: 1173",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:10:43Z",
+        "msg": "got nothing, appts today: 1174",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:15:49Z",
+        "msg": "got nothing, appts today: 1174",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:20:55Z",
+        "msg": "got nothing, appts today: 1175",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:26:01Z",
+        "msg": "got nothing, appts today: 1177",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:31:07Z",
+        "msg": "got nothing, appts today: 1178",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:36:13Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            },
+            "2023-09-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-16T18:41:27Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "12:24": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt K\u00f6penick"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T18:46:41Z",
+        "msg": "got nothing, appts today: 1181",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T18:51:47Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T18:56:57Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "14:18": "B\u00fcrgeramt K\u00f6penick"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T19:02:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-29T23:00:00Z": {
+                "14:18": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T19:07:21Z",
+        "msg": "got nothing, appts today: 1187",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:12:26Z",
+        "msg": "got nothing, appts today: 1188",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:17:32Z",
+        "msg": "got nothing, appts today: 1187",
+        "appts": {}
+    }
+]

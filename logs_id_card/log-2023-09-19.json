@@ -1,0 +1,2442 @@
+[
+    {
+        "time": "2023-09-19T00:04:17Z",
+        "msg": "got nothing, appts today: 3",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:09:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "17:00": "B\u00fcrgeramt Reinickendorf-Ost"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T00:14:36Z",
+        "msg": "got nothing, appts today: 3",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:19:42Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:24:47Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:29:53Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:34:59Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:40:05Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:45:10Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:50:16Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T00:55:22Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:00:28Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:05:33Z",
+        "msg": "got nothing, appts today: 4",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:10:39Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:15:45Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:20:51Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:25:56Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:31:02Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:36:09Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:41:14Z",
+        "msg": "got nothing, appts today: 6",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:46:21Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:51:27Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T01:56:33Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:01:38Z",
+        "msg": "got nothing, appts today: 9",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:06:44Z",
+        "msg": "got nothing, appts today: 10",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:11:50Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:16:55Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:22:01Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "11:00": "B\u00fcrgeramt Tempelhof",
+                "17:00": "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T02:27:14Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:32:19Z",
+        "msg": "got nothing, appts today: 13",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:37:25Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "11:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T02:42:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "11:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T02:47:52Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-08T23:00:00Z": {
+                "17:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T02:53:05Z",
+        "msg": "got nothing, appts today: 15",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T02:58:11Z",
+        "msg": "got nothing, appts today: 15",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:03:17Z",
+        "msg": "got nothing, appts today: 15",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:08:23Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T03:13:32Z",
+        "msg": "got nothing, appts today: 17",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:18:37Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-12T23:00:00Z": {
+                "11:18": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T03:23:50Z",
+        "msg": "got nothing, appts today: 19",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:28:56Z",
+        "msg": "got nothing, appts today: 22",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:34:01Z",
+        "msg": "got nothing, appts today: 22",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:39:07Z",
+        "msg": "got nothing, appts today: 22",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:44:12Z",
+        "msg": "got nothing, appts today: 23",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:49:18Z",
+        "msg": "got nothing, appts today: 27",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:54:24Z",
+        "msg": "got nothing, appts today: 26",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T03:59:30Z",
+        "msg": "got nothing, appts today: 33",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:04:36Z",
+        "msg": "got nothing, appts today: 35",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:09:42Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:14:47Z",
+        "msg": "got nothing, appts today: 42",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:19:53Z",
+        "msg": "got nothing, appts today: 45",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:24:58Z",
+        "msg": "got nothing, appts today: 49",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:30:04Z",
+        "msg": "got nothing, appts today: 58",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:35:10Z",
+        "msg": "got nothing, appts today: 59",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:40:15Z",
+        "msg": "got nothing, appts today: 65",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:45:21Z",
+        "msg": "got nothing, appts today: 76",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:50:27Z",
+        "msg": "got nothing, appts today: 88",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T04:55:32Z",
+        "msg": "got nothing, appts today: 111",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:00:38Z",
+        "msg": "got nothing, appts today: 140",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:05:43Z",
+        "msg": "got nothing, appts today: 169",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:10:50Z",
+        "msg": "got nothing, appts today: 190",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:15:55Z",
+        "msg": "got nothing, appts today: 210",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:21:01Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "08:20": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "08:40": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "09:20": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "09:40": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "10:00": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "10:20": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "10:40": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "11:00": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "11:20": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "11:40": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "13:00": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "13:20": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "13:40": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "14:00": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "14:20": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+                "14:40": "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str."
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T05:26:15Z",
+        "msg": "got nothing, appts today: 278",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:31:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "07:54": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:06": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:18": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:30": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:42": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:54": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "09:06": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "09:18": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "09:30": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "09:42": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "09:54": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "10:06": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "10:18": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "10:42": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "10:54": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "11:06": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T05:36:34Z",
+        "msg": "got nothing, appts today: 338",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:41:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T05:46:53Z",
+        "msg": "got nothing, appts today: 452",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:52:01Z",
+        "msg": "got nothing, appts today: 490",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T05:57:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-13T23:00:00Z": {
+                "08:00": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T06:02:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-13T23:00:00Z": {
+                "08:12": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Wedding - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T06:07:35Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T06:12:44Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "08:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T06:18:25Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "08:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T06:23:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "07:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "07:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "07:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T06:28:52Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "08:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Blaschkoallee - Vorzugstermine"
+            },
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T06:34:06Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "09:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "16:20": "B\u00fcrgeramt Tegel - Vorzugstermine"
+            },
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T06:39:19Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-13T23:00:00Z": {
+                "09:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T06:44:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-13T23:00:00Z": {
+                "09:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T06:49:47Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T06:55:03Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T07:00:09Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "12:24": "B\u00fcrgeramt Sonnenallee"
+            },
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T07:05:20Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T07:10:29Z",
+        "msg": "got nothing, appts today: 1971",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T07:15:35Z",
+        "msg": "got nothing, appts today: 2056",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T07:20:41Z",
+        "msg": "got nothing, appts today: 2143",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T07:25:48Z",
+        "msg": "got nothing, appts today: 2223",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T07:30:53Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "11:24": "B\u00fcrgeramt Lichtenrade",
+                "14:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T07:36:07Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-10-23T22:00:00Z": {},
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T07:41:15Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T07:46:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter",
+                "11:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Wasserstadt",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:24": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "17:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "17:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T07:51:44Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "16:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T07:56:57Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T08:02:11Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:42": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:18": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:30": "B\u00fcrgeramt Reinickendorf-Ost - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:20": "B\u00fcrgeramt Reinickendorf-Ost - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:30": "B\u00fcrgeramt Reinickendorf-Ost - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T08:07:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:24": "B\u00fcrgeramt Lichtenrade",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:30": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:12": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:12": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            },
+            "2023-10-16T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T08:12:40Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:48": "B\u00fcrgeramt Biesdorf - Center",
+                "12:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:24": "B\u00fcrgeramt Tempelhof",
+                "14:48": "B\u00fcrgeramt Biesdorf - Center",
+                "15:48": "B\u00fcrgeramt Biesdorf - Center",
+                "16:12": "B\u00fcrgeramt Biesdorf - Center",
+                "16:24": "B\u00fcrgeramt Biesdorf - Center"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T08:17:54Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "16:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "16:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "16:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "16:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "17:12": "B\u00fcrgeramt K\u00f6penick",
+                "17:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "17:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "17:48": "B\u00fcrgeramt K\u00f6penick"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T08:23:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T08:28:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:48": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Tegel",
+                "12:10": "B\u00fcrgeramt Tegel",
+                "12:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt Tegel",
+                "12:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:40": "B\u00fcrgeramt Tegel",
+                "12:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:00": "B\u00fcrgeramt Steglitz",
+                "13:12": "B\u00fcrgeramt Steglitz",
+                "13:20": "B\u00fcrgeramt Tegel",
+                "13:24": "B\u00fcrgeramt Steglitz",
+                "13:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:40": "B\u00fcrgeramt Tegel",
+                "13:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:00": "B\u00fcrgeramt Steglitz",
+                "14:12": "B\u00fcrgeramt Steglitz",
+                "14:24": "B\u00fcrgeramt Steglitz",
+                "14:36": "B\u00fcrgeramt Steglitz",
+                "14:48": "B\u00fcrgeramt Steglitz",
+                "15:00": "B\u00fcrgeramt Steglitz",
+                "15:12": "B\u00fcrgeramt Steglitz",
+                "15:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "15:36": "B\u00fcrgeramt Steglitz",
+                "15:48": "B\u00fcrgeramt Steglitz",
+                "16:00": "B\u00fcrgeramt Steglitz",
+                "16:12": "B\u00fcrgeramt Steglitz",
+                "16:24": "B\u00fcrgeramt Steglitz",
+                "16:36": "B\u00fcrgeramt Steglitz",
+                "16:48": "B\u00fcrgeramt Steglitz",
+                "17:00": "B\u00fcrgeramt Steglitz",
+                "17:10": "B\u00fcrgeramt Tegel",
+                "17:12": "B\u00fcrgeramt Steglitz",
+                "17:24": "B\u00fcrgeramt Steglitz",
+                "17:36": "B\u00fcrgeramt Steglitz",
+                "17:48": "B\u00fcrgeramt Steglitz"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T08:33:33Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x55945b36fe23 <unknown>\n#1 0x55945b0987a7 <unknown>\n#2 0x55945b0d71d3 <unknown>\n#3 0x55945b0d72c1 <unknown>\n#4 0x55945b112a04 <unknown>\n#5 0x55945b0f803d <unknown>\n#6 0x55945b110369 <unknown>\n#7 0x55945b0f7de3 <unknown>\n#8 0x55945b0cba7b <unknown>\n#9 0x55945b0cc81e <unknown>\n#10 0x55945b331638 <unknown>\n#11 0x55945b335507 <unknown>\n#12 0x55945b33fc4c <unknown>\n#13 0x55945b336136 <unknown>\n#14 0x55945b3049cf <unknown>\n#15 0x55945b359b98 <unknown>\n#16 0x55945b359d68 <unknown>\n#17 0x55945b368cb3 <unknown>\n#18 0x7fba709e2b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T08:38:38Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x55fdd6da4e23 <unknown>\n#1 0x55fdd6acd7a7 <unknown>\n#2 0x55fdd6b0c1d3 <unknown>\n#3 0x55fdd6b0c2c1 <unknown>\n#4 0x55fdd6b47a04 <unknown>\n#5 0x55fdd6b2d03d <unknown>\n#6 0x55fdd6b45369 <unknown>\n#7 0x55fdd6b2cde3 <unknown>\n#8 0x55fdd6b00a7b <unknown>\n#9 0x55fdd6b0181e <unknown>\n#10 0x55fdd6d66638 <unknown>\n#11 0x55fdd6d6a507 <unknown>\n#12 0x55fdd6d74c4c <unknown>\n#13 0x55fdd6d6b136 <unknown>\n#14 0x55fdd6d399cf <unknown>\n#15 0x55fdd6d8eb98 <unknown>\n#16 0x55fdd6d8ed68 <unknown>\n#17 0x55fdd6d9dcb3 <unknown>\n#18 0x7fb9baa87b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T08:43:43Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x560c8ec63e23 <unknown>\n#1 0x560c8e98c7a7 <unknown>\n#2 0x560c8e9cb1d3 <unknown>\n#3 0x560c8e9cb2c1 <unknown>\n#4 0x560c8ea06a04 <unknown>\n#5 0x560c8e9ec03d <unknown>\n#6 0x560c8ea04369 <unknown>\n#7 0x560c8e9ebde3 <unknown>\n#8 0x560c8e9bfa7b <unknown>\n#9 0x560c8e9c081e <unknown>\n#10 0x560c8ec25638 <unknown>\n#11 0x560c8ec29507 <unknown>\n#12 0x560c8ec33c4c <unknown>\n#13 0x560c8ec2a136 <unknown>\n#14 0x560c8ebf89cf <unknown>\n#15 0x560c8ec4db98 <unknown>\n#16 0x560c8ec4dd68 <unknown>\n#17 0x560c8ec5ccb3 <unknown>\n#18 0x7fc39ca5fb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T08:48:47Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x55c344395e23 <unknown>\n#1 0x55c3440be7a7 <unknown>\n#2 0x55c3440fd1d3 <unknown>\n#3 0x55c3440fd2c1 <unknown>\n#4 0x55c344138a04 <unknown>\n#5 0x55c34411e03d <unknown>\n#6 0x55c344136369 <unknown>\n#7 0x55c34411dde3 <unknown>\n#8 0x55c3440f1a7b <unknown>\n#9 0x55c3440f281e <unknown>\n#10 0x55c344357638 <unknown>\n#11 0x55c34435b507 <unknown>\n#12 0x55c344365c4c <unknown>\n#13 0x55c34435c136 <unknown>\n#14 0x55c34432a9cf <unknown>\n#15 0x55c34437fb98 <unknown>\n#16 0x55c34437fd68 <unknown>\n#17 0x55c34438ecb3 <unknown>\n#18 0x7f76490d8b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T08:53:51Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x55597e5aee23 <unknown>\n#1 0x55597e2d77a7 <unknown>\n#2 0x55597e3161d3 <unknown>\n#3 0x55597e3162c1 <unknown>\n#4 0x55597e351a04 <unknown>\n#5 0x55597e33703d <unknown>\n#6 0x55597e34f369 <unknown>\n#7 0x55597e336de3 <unknown>\n#8 0x55597e30aa7b <unknown>\n#9 0x55597e30b81e <unknown>\n#10 0x55597e570638 <unknown>\n#11 0x55597e574507 <unknown>\n#12 0x55597e57ec4c <unknown>\n#13 0x55597e575136 <unknown>\n#14 0x55597e5439cf <unknown>\n#15 0x55597e598b98 <unknown>\n#16 0x55597e598d68 <unknown>\n#17 0x55597e5a7cb3 <unknown>\n#18 0x7fc2723d7b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T08:58:54Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x563eb13e9e23 <unknown>\n#1 0x563eb11127a7 <unknown>\n#2 0x563eb11511d3 <unknown>\n#3 0x563eb11512c1 <unknown>\n#4 0x563eb118ca04 <unknown>\n#5 0x563eb117203d <unknown>\n#6 0x563eb118a369 <unknown>\n#7 0x563eb1171de3 <unknown>\n#8 0x563eb1145a7b <unknown>\n#9 0x563eb114681e <unknown>\n#10 0x563eb13ab638 <unknown>\n#11 0x563eb13af507 <unknown>\n#12 0x563eb13b9c4c <unknown>\n#13 0x563eb13b0136 <unknown>\n#14 0x563eb137e9cf <unknown>\n#15 0x563eb13d3b98 <unknown>\n#16 0x563eb13d3d68 <unknown>\n#17 0x563eb13e2cb3 <unknown>\n#18 0x7febb19c4b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T09:04:03Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "11:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt K\u00f6penick",
+                "11:48": "B\u00fcrgeramt K\u00f6penick",
+                "12:00": "B\u00fcrgeramt K\u00f6penick",
+                "12:12": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt K\u00f6penick",
+                "12:36": "B\u00fcrgeramt K\u00f6penick",
+                "12:48": "B\u00fcrgeramt K\u00f6penick",
+                "13:00": "B\u00fcrgeramt K\u00f6penick",
+                "13:12": "B\u00fcrgeramt K\u00f6penick",
+                "13:24": "B\u00fcrgeramt K\u00f6penick",
+                "13:36": "B\u00fcrgeramt K\u00f6penick",
+                "13:48": "B\u00fcrgeramt K\u00f6penick",
+                "14:00": "B\u00fcrgeramt K\u00f6penick",
+                "14:12": "B\u00fcrgeramt K\u00f6penick",
+                "14:24": "B\u00fcrgeramt K\u00f6penick",
+                "14:36": "B\u00fcrgeramt K\u00f6penick",
+                "14:48": "B\u00fcrgeramt Karow / Buch - Vorzugstermine",
+                "14:50": "B\u00fcrgeramt Tegel",
+                "15:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt K\u00f6penick",
+                "15:48": "B\u00fcrgeramt K\u00f6penick",
+                "16:10": "B\u00fcrgeramt Reinickendorf-Ost - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T09:09:15Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T09:14:35Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:48": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt K\u00f6penick",
+                "12:12": "B\u00fcrgeramt K\u00f6penick",
+                "": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:24": "B\u00fcrgeramt K\u00f6penick",
+                "12:30": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt K\u00f6penick",
+                "12:48": "B\u00fcrgeramt K\u00f6penick",
+                "13:00": "B\u00fcrgeramt K\u00f6penick",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:36": "B\u00fcrgeramt K\u00f6penick",
+                "16:00": "B\u00fcrgeramt K\u00f6penick"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T09:20:11Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T09:27:24Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x564c01b32e23 <unknown>\n#1 0x564c0185b7a7 <unknown>\n#2 0x564c01853829 <unknown>\n#3 0x564c018432c2 <unknown>\n#4 0x564c018449fb <unknown>\n#5 0x564c0184369d <unknown>\n#6 0x564c0184265c <unknown>\n#7 0x564c018425ce <unknown>\n#8 0x564c0184128a <unknown>\n#9 0x564c018416da <unknown>\n#10 0x564c0185d630 <unknown>\n#11 0x564c018d3b15 <unknown>\n#12 0x564c018bb012 <unknown>\n#13 0x564c018d3369 <unknown>\n#14 0x564c018bade3 <unknown>\n#15 0x564c0188ea7b <unknown>\n#16 0x564c0188f81e <unknown>\n#17 0x564c01af4638 <unknown>\n#18 0x564c01af8507 <unknown>\n#19 0x564c01b02c4c <unknown>\n#20 0x564c01af9136 <unknown>\n#21 0x564c01ac79cf <unknown>\n#22 0x564c01b1cb98 <unknown>\n#23 0x564c01b1cd68 <unknown>\n#24 0x564c01b2bcb3 <unknown>\n#25 0x7f40e7245b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T09:34:36Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x560b9d507e23 <unknown>\n#1 0x560b9d2307a7 <unknown>\n#2 0x560b9d228829 <unknown>\n#3 0x560b9d2182c2 <unknown>\n#4 0x560b9d2199fb <unknown>\n#5 0x560b9d21869d <unknown>\n#6 0x560b9d21765c <unknown>\n#7 0x560b9d2175ce <unknown>\n#8 0x560b9d21628a <unknown>\n#9 0x560b9d2166da <unknown>\n#10 0x560b9d232630 <unknown>\n#11 0x560b9d2a8b15 <unknown>\n#12 0x560b9d290012 <unknown>\n#13 0x560b9d2a8369 <unknown>\n#14 0x560b9d28fde3 <unknown>\n#15 0x560b9d263a7b <unknown>\n#16 0x560b9d26481e <unknown>\n#17 0x560b9d4c9638 <unknown>\n#18 0x560b9d4cd507 <unknown>\n#19 0x560b9d4d7c4c <unknown>\n#20 0x560b9d4ce136 <unknown>\n#21 0x560b9d49c9cf <unknown>\n#22 0x560b9d4f1b98 <unknown>\n#23 0x560b9d4f1d68 <unknown>\n#24 0x560b9d500cb3 <unknown>\n#25 0x7fd3a7d98b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T09:41:48Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x5618de094e23 <unknown>\n#1 0x5618dddbd7a7 <unknown>\n#2 0x5618dddb5829 <unknown>\n#3 0x5618ddda52c2 <unknown>\n#4 0x5618ddda69fb <unknown>\n#5 0x5618ddda569d <unknown>\n#6 0x5618ddda465c <unknown>\n#7 0x5618ddda45ce <unknown>\n#8 0x5618ddda328a <unknown>\n#9 0x5618ddda36da <unknown>\n#10 0x5618dddbf630 <unknown>\n#11 0x5618dde35b15 <unknown>\n#12 0x5618dde1d012 <unknown>\n#13 0x5618dde35369 <unknown>\n#14 0x5618dde1cde3 <unknown>\n#15 0x5618dddf0a7b <unknown>\n#16 0x5618dddf181e <unknown>\n#17 0x5618de056638 <unknown>\n#18 0x5618de05a507 <unknown>\n#19 0x5618de064c4c <unknown>\n#20 0x5618de05b136 <unknown>\n#21 0x5618de0299cf <unknown>\n#22 0x5618de07eb98 <unknown>\n#23 0x5618de07ed68 <unknown>\n#24 0x5618de08dcb3 <unknown>\n#25 0x7fe586f82b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T09:49:00Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x55dea2b6ae23 <unknown>\n#1 0x55dea28937a7 <unknown>\n#2 0x55dea288b829 <unknown>\n#3 0x55dea287b2c2 <unknown>\n#4 0x55dea287c9fb <unknown>\n#5 0x55dea287b69d <unknown>\n#6 0x55dea287a65c <unknown>\n#7 0x55dea287a5ce <unknown>\n#8 0x55dea287928a <unknown>\n#9 0x55dea28796da <unknown>\n#10 0x55dea2895630 <unknown>\n#11 0x55dea290bb15 <unknown>\n#12 0x55dea28f3012 <unknown>\n#13 0x55dea290b369 <unknown>\n#14 0x55dea28f2de3 <unknown>\n#15 0x55dea28c6a7b <unknown>\n#16 0x55dea28c781e <unknown>\n#17 0x55dea2b2c638 <unknown>\n#18 0x55dea2b30507 <unknown>\n#19 0x55dea2b3ac4c <unknown>\n#20 0x55dea2b31136 <unknown>\n#21 0x55dea2aff9cf <unknown>\n#22 0x55dea2b54b98 <unknown>\n#23 0x55dea2b54d68 <unknown>\n#24 0x55dea2b63cb3 <unknown>\n#25 0x7f3eba035b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T09:56:12Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x564d978bbe23 <unknown>\n#1 0x564d975e47a7 <unknown>\n#2 0x564d975dc829 <unknown>\n#3 0x564d975cc2c2 <unknown>\n#4 0x564d975cd9fb <unknown>\n#5 0x564d975cc69d <unknown>\n#6 0x564d975cb65c <unknown>\n#7 0x564d975cb5ce <unknown>\n#8 0x564d975ca28a <unknown>\n#9 0x564d975ca6da <unknown>\n#10 0x564d975e6630 <unknown>\n#11 0x564d9765cb15 <unknown>\n#12 0x564d97644012 <unknown>\n#13 0x564d9765c369 <unknown>\n#14 0x564d97643de3 <unknown>\n#15 0x564d97617a7b <unknown>\n#16 0x564d9761881e <unknown>\n#17 0x564d9787d638 <unknown>\n#18 0x564d97881507 <unknown>\n#19 0x564d9788bc4c <unknown>\n#20 0x564d97882136 <unknown>\n#21 0x564d978509cf <unknown>\n#22 0x564d978a5b98 <unknown>\n#23 0x564d978a5d68 <unknown>\n#24 0x564d978b4cb3 <unknown>\n#25 0x7f88c7d08b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:03:24Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x563411a3ae23 <unknown>\n#1 0x5634117637a7 <unknown>\n#2 0x56341175b829 <unknown>\n#3 0x56341174b2c2 <unknown>\n#4 0x56341174c9fb <unknown>\n#5 0x56341174b69d <unknown>\n#6 0x56341174a65c <unknown>\n#7 0x56341174a5ce <unknown>\n#8 0x56341174928a <unknown>\n#9 0x5634117496da <unknown>\n#10 0x563411765630 <unknown>\n#11 0x5634117dbb15 <unknown>\n#12 0x5634117c3012 <unknown>\n#13 0x5634117db369 <unknown>\n#14 0x5634117c2de3 <unknown>\n#15 0x563411796a7b <unknown>\n#16 0x56341179781e <unknown>\n#17 0x5634119fc638 <unknown>\n#18 0x563411a00507 <unknown>\n#19 0x563411a0ac4c <unknown>\n#20 0x563411a01136 <unknown>\n#21 0x5634119cf9cf <unknown>\n#22 0x563411a24b98 <unknown>\n#23 0x563411a24d68 <unknown>\n#24 0x563411a33cb3 <unknown>\n#25 0x7ffbb2567b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:10:36Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x55750a8a5e23 <unknown>\n#1 0x55750a5ce7a7 <unknown>\n#2 0x55750a5c6829 <unknown>\n#3 0x55750a5b62c2 <unknown>\n#4 0x55750a5b79fb <unknown>\n#5 0x55750a5b669d <unknown>\n#6 0x55750a5b565c <unknown>\n#7 0x55750a5b55ce <unknown>\n#8 0x55750a5b428a <unknown>\n#9 0x55750a5b46da <unknown>\n#10 0x55750a5d0630 <unknown>\n#11 0x55750a646b15 <unknown>\n#12 0x55750a62e012 <unknown>\n#13 0x55750a646369 <unknown>\n#14 0x55750a62dde3 <unknown>\n#15 0x55750a601a7b <unknown>\n#16 0x55750a60281e <unknown>\n#17 0x55750a867638 <unknown>\n#18 0x55750a86b507 <unknown>\n#19 0x55750a875c4c <unknown>\n#20 0x55750a86c136 <unknown>\n#21 0x55750a83a9cf <unknown>\n#22 0x55750a88fb98 <unknown>\n#23 0x55750a88fd68 <unknown>\n#24 0x55750a89ecb3 <unknown>\n#25 0x7f160e23fb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:17:49Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x555e04db5e23 <unknown>\n#1 0x555e04ade7a7 <unknown>\n#2 0x555e04ad6829 <unknown>\n#3 0x555e04ac62c2 <unknown>\n#4 0x555e04ac79fb <unknown>\n#5 0x555e04ac669d <unknown>\n#6 0x555e04ac565c <unknown>\n#7 0x555e04ac55ce <unknown>\n#8 0x555e04ac428a <unknown>\n#9 0x555e04ac46da <unknown>\n#10 0x555e04ae0630 <unknown>\n#11 0x555e04b56b15 <unknown>\n#12 0x555e04b3e012 <unknown>\n#13 0x555e04b56369 <unknown>\n#14 0x555e04b3dde3 <unknown>\n#15 0x555e04b11a7b <unknown>\n#16 0x555e04b1281e <unknown>\n#17 0x555e04d77638 <unknown>\n#18 0x555e04d7b507 <unknown>\n#19 0x555e04d85c4c <unknown>\n#20 0x555e04d7c136 <unknown>\n#21 0x555e04d4a9cf <unknown>\n#22 0x555e04d9fb98 <unknown>\n#23 0x555e04d9fd68 <unknown>\n#24 0x555e04daecb3 <unknown>\n#25 0x7f24eaa9eb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:25:01Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x5571ee6eee23 <unknown>\n#1 0x5571ee4177a7 <unknown>\n#2 0x5571ee40f829 <unknown>\n#3 0x5571ee3ff2c2 <unknown>\n#4 0x5571ee4009fb <unknown>\n#5 0x5571ee3ff69d <unknown>\n#6 0x5571ee3fe65c <unknown>\n#7 0x5571ee3fe5ce <unknown>\n#8 0x5571ee3fd28a <unknown>\n#9 0x5571ee3fd6da <unknown>\n#10 0x5571ee419630 <unknown>\n#11 0x5571ee48fb15 <unknown>\n#12 0x5571ee477012 <unknown>\n#13 0x5571ee48f369 <unknown>\n#14 0x5571ee476de3 <unknown>\n#15 0x5571ee44aa7b <unknown>\n#16 0x5571ee44b81e <unknown>\n#17 0x5571ee6b0638 <unknown>\n#18 0x5571ee6b4507 <unknown>\n#19 0x5571ee6bec4c <unknown>\n#20 0x5571ee6b5136 <unknown>\n#21 0x5571ee6839cf <unknown>\n#22 0x5571ee6d8b98 <unknown>\n#23 0x5571ee6d8d68 <unknown>\n#24 0x5571ee6e7cb3 <unknown>\n#25 0x7f97c583bb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:32:13Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x55afb0c7ce23 <unknown>\n#1 0x55afb09a57a7 <unknown>\n#2 0x55afb099d829 <unknown>\n#3 0x55afb098d2c2 <unknown>\n#4 0x55afb098e9fb <unknown>\n#5 0x55afb098d69d <unknown>\n#6 0x55afb098c65c <unknown>\n#7 0x55afb098c5ce <unknown>\n#8 0x55afb098b28a <unknown>\n#9 0x55afb098b6da <unknown>\n#10 0x55afb09a7630 <unknown>\n#11 0x55afb0a1db15 <unknown>\n#12 0x55afb0a05012 <unknown>\n#13 0x55afb0a1d369 <unknown>\n#14 0x55afb0a04de3 <unknown>\n#15 0x55afb09d8a7b <unknown>\n#16 0x55afb09d981e <unknown>\n#17 0x55afb0c3e638 <unknown>\n#18 0x55afb0c42507 <unknown>\n#19 0x55afb0c4cc4c <unknown>\n#20 0x55afb0c43136 <unknown>\n#21 0x55afb0c119cf <unknown>\n#22 0x55afb0c66b98 <unknown>\n#23 0x55afb0c66d68 <unknown>\n#24 0x55afb0c75cb3 <unknown>\n#25 0x7f8bfe1fdb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:39:25Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x559635053e23 <unknown>\n#1 0x559634d7c7a7 <unknown>\n#2 0x559634d74829 <unknown>\n#3 0x559634d642c2 <unknown>\n#4 0x559634d659fb <unknown>\n#5 0x559634d6469d <unknown>\n#6 0x559634d6365c <unknown>\n#7 0x559634d635ce <unknown>\n#8 0x559634d6228a <unknown>\n#9 0x559634d626da <unknown>\n#10 0x559634d7e630 <unknown>\n#11 0x559634df4b15 <unknown>\n#12 0x559634ddc012 <unknown>\n#13 0x559634df4369 <unknown>\n#14 0x559634ddbde3 <unknown>\n#15 0x559634dafa7b <unknown>\n#16 0x559634db081e <unknown>\n#17 0x559635015638 <unknown>\n#18 0x559635019507 <unknown>\n#19 0x559635023c4c <unknown>\n#20 0x55963501a136 <unknown>\n#21 0x559634fe89cf <unknown>\n#22 0x55963503db98 <unknown>\n#23 0x55963503dd68 <unknown>\n#24 0x55963504ccb3 <unknown>\n#25 0x7f57dbd72b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:46:37Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x559f28bfce23 <unknown>\n#1 0x559f289257a7 <unknown>\n#2 0x559f2891d829 <unknown>\n#3 0x559f2890d2c2 <unknown>\n#4 0x559f2890e9fb <unknown>\n#5 0x559f2890d69d <unknown>\n#6 0x559f2890c65c <unknown>\n#7 0x559f2890c5ce <unknown>\n#8 0x559f2890b28a <unknown>\n#9 0x559f2890b6da <unknown>\n#10 0x559f28927630 <unknown>\n#11 0x559f2899db15 <unknown>\n#12 0x559f28985012 <unknown>\n#13 0x559f2899d369 <unknown>\n#14 0x559f28984de3 <unknown>\n#15 0x559f28958a7b <unknown>\n#16 0x559f2895981e <unknown>\n#17 0x559f28bbe638 <unknown>\n#18 0x559f28bc2507 <unknown>\n#19 0x559f28bccc4c <unknown>\n#20 0x559f28bc3136 <unknown>\n#21 0x559f28b919cf <unknown>\n#22 0x559f28be6b98 <unknown>\n#23 0x559f28be6d68 <unknown>\n#24 0x559f28bf5cb3 <unknown>\n#25 0x7f5cdda2fb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T10:53:49Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x5568f40dfe23 <unknown>\n#1 0x5568f3e087a7 <unknown>\n#2 0x5568f3e00829 <unknown>\n#3 0x5568f3df02c2 <unknown>\n#4 0x5568f3df19fb <unknown>\n#5 0x5568f3df069d <unknown>\n#6 0x5568f3def65c <unknown>\n#7 0x5568f3def5ce <unknown>\n#8 0x5568f3dee28a <unknown>\n#9 0x5568f3dee6da <unknown>\n#10 0x5568f3e0a630 <unknown>\n#11 0x5568f3e80b15 <unknown>\n#12 0x5568f3e68012 <unknown>\n#13 0x5568f3e80369 <unknown>\n#14 0x5568f3e67de3 <unknown>\n#15 0x5568f3e3ba7b <unknown>\n#16 0x5568f3e3c81e <unknown>\n#17 0x5568f40a1638 <unknown>\n#18 0x5568f40a5507 <unknown>\n#19 0x5568f40afc4c <unknown>\n#20 0x5568f40a6136 <unknown>\n#21 0x5568f40749cf <unknown>\n#22 0x5568f40c9b98 <unknown>\n#23 0x5568f40c9d68 <unknown>\n#24 0x5568f40d8cb3 <unknown>\n#25 0x7f3c931e1b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T11:01:01Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x5623237c3e23 <unknown>\n#1 0x5623234ec7a7 <unknown>\n#2 0x5623234e4829 <unknown>\n#3 0x5623234d42c2 <unknown>\n#4 0x5623234d59fb <unknown>\n#5 0x5623234d469d <unknown>\n#6 0x5623234d365c <unknown>\n#7 0x5623234d35ce <unknown>\n#8 0x5623234d228a <unknown>\n#9 0x5623234d26da <unknown>\n#10 0x5623234ee630 <unknown>\n#11 0x562323564b15 <unknown>\n#12 0x56232354c012 <unknown>\n#13 0x562323564369 <unknown>\n#14 0x56232354bde3 <unknown>\n#15 0x56232351fa7b <unknown>\n#16 0x56232352081e <unknown>\n#17 0x562323785638 <unknown>\n#18 0x562323789507 <unknown>\n#19 0x562323793c4c <unknown>\n#20 0x56232378a136 <unknown>\n#21 0x5623237589cf <unknown>\n#22 0x5623237adb98 <unknown>\n#23 0x5623237add68 <unknown>\n#24 0x5623237bccb3 <unknown>\n#25 0x7f57b7b25b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T11:08:13Z",
+        "msg": "ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: headless chrome=116.0.5845.110)\nStacktrace:\n#0 0x55ab74d42e23 <unknown>\n#1 0x55ab74a6b7a7 <unknown>\n#2 0x55ab74a63829 <unknown>\n#3 0x55ab74a532c2 <unknown>\n#4 0x55ab74a549fb <unknown>\n#5 0x55ab74a5369d <unknown>\n#6 0x55ab74a5265c <unknown>\n#7 0x55ab74a525ce <unknown>\n#8 0x55ab74a5128a <unknown>\n#9 0x55ab74a516da <unknown>\n#10 0x55ab74a6d630 <unknown>\n#11 0x55ab74ae3b15 <unknown>\n#12 0x55ab74acb012 <unknown>\n#13 0x55ab74ae3369 <unknown>\n#14 0x55ab74acade3 <unknown>\n#15 0x55ab74a9ea7b <unknown>\n#16 0x55ab74a9f81e <unknown>\n#17 0x55ab74d04638 <unknown>\n#18 0x55ab74d08507 <unknown>\n#19 0x55ab74d12c4c <unknown>\n#20 0x55ab74d09136 <unknown>\n#21 0x55ab74cd79cf <unknown>\n#22 0x55ab74d2cb98 <unknown>\n#23 0x55ab74d2cd68 <unknown>\n#24 0x55ab74d3bcb3 <unknown>\n#25 0x7ff7c675cb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T11:14:00Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-09-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T11:19:39Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-18T22:00:00Z": {
+                "13:48": "B\u00fcrgeramt Blaschkoallee",
+                "14:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            },
+            "2023-10-23T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T11:25:39Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-26T22:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T11:30:57Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x55b09cf99e23 <unknown>\n#1 0x55b09ccc27a7 <unknown>\n#2 0x55b09cd011d3 <unknown>\n#3 0x55b09cd012c1 <unknown>\n#4 0x55b09cd3ca04 <unknown>\n#5 0x55b09cd2203d <unknown>\n#6 0x55b09cd3a369 <unknown>\n#7 0x55b09cd21de3 <unknown>\n#8 0x55b09ccf5a7b <unknown>\n#9 0x55b09ccf681e <unknown>\n#10 0x55b09cf5b638 <unknown>\n#11 0x55b09cf5f507 <unknown>\n#12 0x55b09cf69c4c <unknown>\n#13 0x55b09cf60136 <unknown>\n#14 0x55b09cf2e9cf <unknown>\n#15 0x55b09cf83b98 <unknown>\n#16 0x55b09cf83d68 <unknown>\n#17 0x55b09cf92cb3 <unknown>\n#18 0x7f53ffcedb43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T11:36:17Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T11:41:57Z",
+        "msg": "ERROR: Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"h1\"}\n  (Session info: headless chrome=116.0.5845.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x55a0f4df7e23 <unknown>\n#1 0x55a0f4b207a7 <unknown>\n#2 0x55a0f4b5f1d3 <unknown>\n#3 0x55a0f4b5f2c1 <unknown>\n#4 0x55a0f4b9aa04 <unknown>\n#5 0x55a0f4b8003d <unknown>\n#6 0x55a0f4b98369 <unknown>\n#7 0x55a0f4b7fde3 <unknown>\n#8 0x55a0f4b53a7b <unknown>\n#9 0x55a0f4b5481e <unknown>\n#10 0x55a0f4db9638 <unknown>\n#11 0x55a0f4dbd507 <unknown>\n#12 0x55a0f4dc7c4c <unknown>\n#13 0x55a0f4dbe136 <unknown>\n#14 0x55a0f4d8c9cf <unknown>\n#15 0x55a0f4de1b98 <unknown>\n#16 0x55a0f4de1d68 <unknown>\n#17 0x55a0f4df0cb3 <unknown>\n#18 0x7f68233b8b43 <unknown>\n",
+        "appts": []
+    },
+    {
+        "time": "2023-09-19T11:47:20Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T11:52:35Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T11:57:48Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T12:03:11Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:08:55Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-10-16T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:14:13Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:19:21Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-01T23:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:24:30Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:29:39Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:34:47Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:39:56Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-09-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:45:04Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T12:50:10Z",
+        "msg": "Too many attempts!",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T12:58:16Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:03:24Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:08:32Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:13:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:18:49Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:23:58Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:29:06Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-15T22:00:00Z": {},
+            "2023-10-16T22:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:34:14Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:39:23Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:44:31Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:49:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:54:48Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T13:59:56Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:05:05Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-25T22:00:00Z": {},
+            "2023-10-29T23:00:00Z": {},
+            "2023-11-09T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:10:13Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:15:21Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:20:29Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:25:39Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-22T22:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:30:48Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:35:56Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:41:04Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:46:14Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:51:24Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T14:56:33Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:01:42Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:06:50Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:11:59Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:17:08Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:22:18Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-01T22:00:00Z": {},
+            "2023-10-26T22:00:00Z": {},
+            "2023-10-29T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:27:26Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-16T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:32:36Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:37:45Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "07:42": "B\u00fcrgeramt Marzahner Promenade",
+                "07:54": "B\u00fcrgeramt Marzahner Promenade",
+                "08:06": "B\u00fcrgeramt Marzahner Promenade",
+                "08:18": "B\u00fcrgeramt Marzahner Promenade",
+                "08:30": "B\u00fcrgeramt Marzahner Promenade",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Marzahner Promenade",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:54": "B\u00fcrgeramt Marzahner Promenade",
+                "09:06": "B\u00fcrgeramt Marzahner Promenade",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:18": "B\u00fcrgeramt Marzahner Promenade",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:30": "B\u00fcrgeramt Marzahner Promenade",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt Marzahner Promenade",
+                "09:54": "B\u00fcrgeramt Marzahner Promenade",
+                "10:18": "B\u00fcrgeramt Marzahner Promenade",
+                "10:30": "B\u00fcrgeramt Marzahner Promenade",
+                "10:42": "B\u00fcrgeramt Marzahner Promenade",
+                "10:54": "B\u00fcrgeramt Marzahner Promenade",
+                "12:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Marzahner Promenade",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Marzahner Promenade",
+                "13:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Marzahner Promenade",
+                "13:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            },
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:42:59Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:48:07Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-18T22:00:00Z": {},
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:53:17Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T15:58:27Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "08:18": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt K\u00f6penick",
+                "11:42": "B\u00fcrgeramt K\u00f6penick",
+                "11:54": "B\u00fcrgeramt K\u00f6penick",
+                "12:18": "B\u00fcrgeramt K\u00f6penick",
+                "12:42": "B\u00fcrgeramt K\u00f6penick",
+                "12:54": "B\u00fcrgeramt K\u00f6penick",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Marzahner Promenade"
+            },
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-09T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:03:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Lichtenrade",
+                "08:24": "B\u00fcrgeramt Lichtenrade",
+                "08:36": "B\u00fcrgeramt Lichtenrade",
+                "08:48": "B\u00fcrgeramt Lichtenrade",
+                "09:00": "B\u00fcrgeramt Lichtenrade",
+                "09:12": "B\u00fcrgeramt Lichtenrade",
+                "09:24": "B\u00fcrgeramt Lichtenrade",
+                "09:36": "B\u00fcrgeramt Lichtenrade",
+                "": "B\u00fcrgeramt Zwickauer Damm",
+                "09:48": "B\u00fcrgeramt Lichtenrade",
+                "10:00": "B\u00fcrgeramt Lichtenrade",
+                "10:12": "B\u00fcrgeramt Lichtenrade",
+                "10:24": "B\u00fcrgeramt Lichtenrade",
+                "10:36": "B\u00fcrgeramt Lichtenrade",
+                "10:48": "B\u00fcrgeramt Lichtenrade",
+                "11:00": "B\u00fcrgeramt Lichtenrade",
+                "11:12": "B\u00fcrgeramt Lichtenrade",
+                "11:24": "B\u00fcrgeramt Lichtenrade",
+                "11:48": "B\u00fcrgeramt Lichtenrade",
+                "12:00": "B\u00fcrgeramt Lichtenrade",
+                "12:12": "B\u00fcrgeramt Lichtenrade",
+                "12:24": "B\u00fcrgeramt Lichtenrade",
+                "12:30": "B\u00fcrgeramt Zehlendorf",
+                "12:36": "B\u00fcrgeramt Lichtenrade",
+                "12:48": "B\u00fcrgeramt Lichtenrade",
+                "13:00": "B\u00fcrgeramt Lichtenrade",
+                "13:12": "B\u00fcrgeramt Lichtenrade",
+                "13:36": "B\u00fcrgeramt Lichtenrade",
+                "13:48": "B\u00fcrgeramt Lichtenrade",
+                "14:00": "B\u00fcrgeramt Lichtenrade",
+                "14:12": "B\u00fcrgeramt Lichtenrade"
+            },
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:08:52Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:14:01Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:19:10Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:24:19Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:29:27Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:34:35Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Sonnenallee",
+                "08:24": "B\u00fcrgeramt Blaschkoallee",
+                "08:36": "B\u00fcrgeramt Blaschkoallee",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:12": "B\u00fcrgeramt Sonnenallee",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:48": "B\u00fcrgeramt Lichtenrade",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Blaschkoallee",
+                "11:00": "B\u00fcrgeramt Sonnenallee",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "14:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T16:39:47Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:44:56Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:12": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Sonnenallee",
+                "08:24": "B\u00fcrgeramt Blaschkoallee",
+                "08:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "08:48": "B\u00fcrgeramt Blaschkoallee",
+                "09:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:12": "B\u00fcrgeramt Sonnenallee",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:36": "B\u00fcrgeramt Sonnenallee",
+                "09:48": "B\u00fcrgeramt Lichtenrade",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "12:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "13:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T16:50:13Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T16:55:22Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:12": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "": "B\u00fcrgeramt Sonnenallee",
+                "08:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T17:00:34Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "09:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:00": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "11:12": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T17:05:47Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:10:56Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:16:05Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:21:14Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:26:24Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-22T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:31:34Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-25T22:00:00Z": {},
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:36:44Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-01T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:41:53Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-25T22:00:00Z": {},
+            "2023-10-30T23:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:47:03Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-01T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:52:13Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T17:57:22Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:02:31Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:07:41Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:12:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:18:00Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-22T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:23:09Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:28:18Z",
+        "msg": "got nothing, appts today: 9363",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T18:33:25Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T18:38:33Z",
+        "msg": "got nothing, appts today: 9379",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T18:43:40Z",
+        "msg": "got nothing, appts today: 9385",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T18:48:47Z",
+        "msg": "got nothing, appts today: 9397",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T18:53:54Z",
+        "msg": "got nothing, appts today: 9400",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T18:59:00Z",
+        "msg": "got nothing, appts today: 9405",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:04:07Z",
+        "msg": "got nothing, appts today: 9410",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:09:13Z",
+        "msg": "got nothing, appts today: 9418",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:14:19Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T19:19:28Z",
+        "msg": "got nothing, appts today: 9433",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:24:34Z",
+        "msg": "got nothing, appts today: 9441",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:29:41Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T19:34:50Z",
+        "msg": "got nothing, appts today: 9455",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:39:57Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T19:45:07Z",
+        "msg": "got nothing, appts today: 9469",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T19:50:13Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T19:55:26Z",
+        "msg": "got nothing, appts today: 9485",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T20:00:33Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:05:44Z",
+        "msg": "got nothing, appts today: 9494",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T20:10:51Z",
+        "msg": "got nothing, appts today: 9499",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T20:16:00Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:21:10Z",
+        "msg": "got nothing, appts today: 9513",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T20:26:15Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:31:25Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:36:34Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-01T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:41:43Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            },
+            "2023-10-08T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:46:55Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "12:06": "B\u00fcrgeramt Steglitz",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T20:52:07Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-10-01T22:00:00Z": {
+                "14:12": "B\u00fcrgeramt Lichtenrade - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-19T20:57:19Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T21:02:29Z",
+        "msg": "got nothing, appts today: 9544",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:07:36Z",
+        "msg": "got nothing, appts today: 9548",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:12:43Z",
+        "msg": "got nothing, appts today: 9553",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:17:50Z",
+        "msg": "got nothing, appts today: 9557",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:22:57Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-07T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T21:28:06Z",
+        "msg": "got nothing, appts today: 9561",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:33:12Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T21:38:22Z",
+        "msg": "got nothing, appts today: 9563",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:43:28Z",
+        "msg": "got nothing, appts today: 9565",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:48:33Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-09T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-19T21:53:43Z",
+        "msg": "got nothing, appts today: 9573",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T21:58:50Z",
+        "msg": "got nothing, appts today: 9578",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:03:57Z",
+        "msg": "got nothing, appts today: 1",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:09:02Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:14:07Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:19:12Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:24:16Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:29:20Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:34:25Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:39:30Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:44:35Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:49:40Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:54:44Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T22:59:49Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:04:54Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:09:59Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:15:02Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:20:07Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:25:12Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:30:17Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:35:23Z",
+        "msg": "got nothing, appts today: 14",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:40:30Z",
+        "msg": "got nothing, appts today: 16",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:45:37Z",
+        "msg": "got nothing, appts today: 16",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:50:46Z",
+        "msg": "got nothing, appts today: 16",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-19T23:55:53Z",
+        "msg": "got nothing, appts today: 16",
+        "appts": {}
+    }
+]

@@ -1,0 +1,305 @@
+[
+    {
+        "time": "2023-09-16T19:19:55Z",
+        "msg": "got nothing, appts today: 1190",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:25:01Z",
+        "msg": "got nothing, appts today: 1194",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:30:06Z",
+        "msg": "got nothing, appts today: 1193",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:35:13Z",
+        "msg": "got nothing, appts today: 1192",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:40:18Z",
+        "msg": "got nothing, appts today: 1194",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:45:24Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "13:54": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T19:50:36Z",
+        "msg": "got nothing, appts today: 1199",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T19:55:42Z",
+        "msg": "got nothing, appts today: 1202",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:00:48Z",
+        "msg": "got nothing, appts today: 1204",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:05:53Z",
+        "msg": "got nothing, appts today: 1208",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:11:00Z",
+        "msg": "got nothing, appts today: 1209",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:16:06Z",
+        "msg": "got nothing, appts today: 1211",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:21:11Z",
+        "msg": "got nothing, appts today: 1212",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:26:17Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-17T22:00:00Z": {
+                "13:18": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T20:31:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-26T22:00:00Z": {
+                "10:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T20:36:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "12:00": "B\u00fcrgeramt Tempelhof"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T20:41:57Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-26T22:00:00Z": {
+                "10:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T20:47:10Z",
+        "msg": "got nothing, appts today: 1218",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:52:16Z",
+        "msg": "got nothing, appts today: 1222",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T20:57:21Z",
+        "msg": "got nothing, appts today: 1224",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:02:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-07T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T21:07:40Z",
+        "msg": "got nothing, appts today: 1229",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:12:46Z",
+        "msg": "got nothing, appts today: 1229",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:17:52Z",
+        "msg": "got nothing, appts today: 1230",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:22:57Z",
+        "msg": "got nothing, appts today: 1230",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:28:03Z",
+        "msg": "got nothing, appts today: 1230",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:33:09Z",
+        "msg": "got nothing, appts today: 1230",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:38:14Z",
+        "msg": "got nothing, appts today: 1232",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:43:20Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-12T22:00:00Z": {
+                "08:24": "B\u00fcrgeramt Sonnenallee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-16T21:48:33Z",
+        "msg": "got nothing, appts today: 1236",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:53:39Z",
+        "msg": "got nothing, appts today: 1238",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T21:58:45Z",
+        "msg": "got nothing, appts today: 1241",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:03:51Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:08:57Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:14:00Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:19:03Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:24:07Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:29:10Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:34:13Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:39:17Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:44:21Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:49:25Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:54:29Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T22:59:32Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:04:36Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:09:39Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:14:44Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:19:48Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:24:51Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:29:55Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:34:58Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:40:04Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:45:10Z",
+        "msg": "got nothing, appts today: 1",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:50:16Z",
+        "msg": "got nothing, appts today: 1",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-16T23:55:22Z",
+        "msg": "got nothing, appts today: 1",
+        "appts": {}
+    }
+]

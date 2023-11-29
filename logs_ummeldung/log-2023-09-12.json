@@ -1,0 +1,3744 @@
+[
+    {
+        "time": "2023-09-12T00:02:14Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:07:27Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:42": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:12:38Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:17:51Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:23:04Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:28:19Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:33:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:38:46Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:43:59Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:49:13Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:54:27Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T00:59:40Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:04:53Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "13:24": "B\u00fcrgeramt Lichtenrade"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:10:06Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:15:19Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:20:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:25:47Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:31:00Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:36:14Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:41:27Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:42": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:46:40Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:51:53Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T01:57:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T02:02:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T02:07:34Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T02:12:48Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-11-05T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T02:17:56Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "09:54": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T02:23:09Z",
+        "msg": "got nothing, appts today: 41",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T02:28:15Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "12:42": "B\u00fcrgeramt Steglitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T02:33:29Z",
+        "msg": "got nothing, appts today: 43",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T02:38:35Z",
+        "msg": "got nothing, appts today: 44",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T02:43:41Z",
+        "msg": "got nothing, appts today: 44",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T02:48:46Z",
+        "msg": "got nothing, appts today: 46",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T02:53:52Z",
+        "msg": "got nothing, appts today: 49",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T02:58:57Z",
+        "msg": "got nothing, appts today: 49",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:04:03Z",
+        "msg": "got nothing, appts today: 50",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:09:09Z",
+        "msg": "got nothing, appts today: 50",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:14:15Z",
+        "msg": "got nothing, appts today: 51",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:19:21Z",
+        "msg": "got nothing, appts today: 52",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:24:26Z",
+        "msg": "got nothing, appts today: 54",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:29:32Z",
+        "msg": "got nothing, appts today: 58",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:34:37Z",
+        "msg": "got nothing, appts today: 58",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:39:43Z",
+        "msg": "got nothing, appts today: 59",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:44:49Z",
+        "msg": "got nothing, appts today: 70",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:49:54Z",
+        "msg": "got nothing, appts today: 71",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T03:55:00Z",
+        "msg": "got nothing, appts today: 73",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:00:05Z",
+        "msg": "got nothing, appts today: 77",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:05:11Z",
+        "msg": "got nothing, appts today: 80",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:10:17Z",
+        "msg": "got nothing, appts today: 87",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:15:23Z",
+        "msg": "got nothing, appts today: 93",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:20:28Z",
+        "msg": "got nothing, appts today: 102",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:25:33Z",
+        "msg": "got nothing, appts today: 110",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:30:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-24T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt Steglitz"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T04:35:52Z",
+        "msg": "got nothing, appts today: 124",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:40:58Z",
+        "msg": "got nothing, appts today: 135",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T04:46:04Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:48": "B\u00fcrgeramt Steglitz - Vorzugstermine"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-10-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T04:51:17Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-10-09T22:00:00Z": {
+                "16:00": "B\u00fcrgeramt Zwickauer Damm"
+            },
+            "2023-11-07T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T04:56:27Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-10-04T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T05:01:40Z",
+        "msg": "got nothing, appts today: 189",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T05:06:45Z",
+        "msg": "got nothing, appts today: 205",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T05:11:51Z",
+        "msg": "got nothing, appts today: 224",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T05:16:57Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-10-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T05:22:06Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T05:27:15Z",
+        "msg": "got nothing, appts today: 312",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T05:32:21Z",
+        "msg": "got nothing, appts today: 336",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T05:37:26Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T05:42:35Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "07:48": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "08:00": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T05:47:49Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "08:06": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:18": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+                "08:30": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T05:53:02Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:12": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T05:58:13Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "08:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T06:03:27Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "08:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T06:08:40Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T06:13:49Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T06:18:57Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T06:24:06Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T06:29:14Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "08:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T06:34:28Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "08:12": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T06:39:42Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T06:44:50Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "08:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T06:50:04Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "09:42": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T06:55:17Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "08:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:00:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:05:44Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:48": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Wedding",
+                "11:36": "B\u00fcrgeramt Wedding",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Wedding",
+                "12:48": "B\u00fcrgeramt Wedding",
+                "13:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Wedding",
+                "13:36": "B\u00fcrgeramt Wedding",
+                "14:00": "B\u00fcrgeramt Wedding - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:10:58Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:16:11Z",
+        "msg": "got nothing, appts today: 2013",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T07:21:17Z",
+        "msg": "got nothing, appts today: 2126",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T07:26:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "09:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:31:37Z",
+        "msg": "got nothing, appts today: 2339",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T07:36:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "09:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            },
+            "2023-10-09T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T07:41:57Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:47:10Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Zehlendorf",
+                "11:12": "B\u00fcrgeramt Zehlendorf",
+                "11:24": "B\u00fcrgeramt Blaschkoallee - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Zehlendorf",
+                "11:48": "B\u00fcrgeramt Zehlendorf",
+                "12:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Zehlendorf",
+                "12:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Zehlendorf",
+                "12:48": "B\u00fcrgeramt Zehlendorf",
+                "13:00": "B\u00fcrgeramt Zehlendorf",
+                "13:12": "B\u00fcrgeramt Zehlendorf",
+                "13:24": "B\u00fcrgeramt Zehlendorf",
+                "13:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Zehlendorf",
+                "14:00": "B\u00fcrgeramt Zehlendorf",
+                "14:12": "B\u00fcrgeramt Zehlendorf",
+                "14:24": "B\u00fcrgeramt Zehlendorf",
+                "14:36": "B\u00fcrgeramt Zehlendorf",
+                "14:48": "B\u00fcrgeramt Zehlendorf",
+                "15:00": "B\u00fcrgeramt Zehlendorf",
+                "16:12": "B\u00fcrgeramt Blaschkoallee",
+                "16:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:52:24Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Zehlendorf",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T07:57:38Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Zehlendorf",
+                "12:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Zehlendorf",
+                "13:36": "B\u00fcrgeramt Zehlendorf",
+                "14:12": "B\u00fcrgeramt Zehlendorf",
+                "15:00": "B\u00fcrgeramt Zehlendorf",
+                "15:36": "B\u00fcrgeramt Zehlendorf"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:02:51Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T08:07:59Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Helle Mitte",
+                "": "B\u00fcrgeramt Zwickauer Damm",
+                "11:24": "B\u00fcrgeramt Helle Mitte",
+                "12:36": "B\u00fcrgeramt Zwickauer Damm",
+                "12:48": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            },
+            "2023-10-09T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T08:13:16Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:30": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:18:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:23:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:28:57Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Steglitz",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Blaschkoallee",
+                "12:36": "B\u00fcrgeramt Blaschkoallee",
+                "12:42": "B\u00fcrgeramt Wilmersdorfer Stra\u00dfe",
+                "12:48": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Blaschkoallee",
+                "13:36": "B\u00fcrgeramt Blaschkoallee",
+                "13:48": "B\u00fcrgeramt Blaschkoallee",
+                "14:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Blaschkoallee",
+                "16:24": "B\u00fcrgeramt Blaschkoallee",
+                "16:36": "B\u00fcrgeramt Blaschkoallee",
+                "16:48": "B\u00fcrgeramt Blaschkoallee"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-09-14T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T08:34:10Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "10:48": "B\u00fcrgeramt Sch\u00f6neberg",
+                "": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Helle Mitte",
+                "11:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Blaschkoallee",
+                "12:24": "B\u00fcrgeramt Blaschkoallee",
+                "12:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Blaschkoallee",
+                "13:24": "B\u00fcrgeramt Blaschkoallee",
+                "13:36": "B\u00fcrgeramt Blaschkoallee",
+                "13:48": "B\u00fcrgeramt Blaschkoallee",
+                "14:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Helle Mitte"
+            },
+            "2023-09-17T22:00:00Z": {},
+            "2023-09-24T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {},
+            "2023-10-09T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T08:39:23Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "14:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "15:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:44:36Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Helle Mitte",
+                "": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt Blaschkoallee",
+                "12:24": "B\u00fcrgeramt Blaschkoallee",
+                "12:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Blaschkoallee",
+                "17:24": "B\u00fcrgeramt Blaschkoallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:49:49Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:12": "B\u00fcrgeramt Blaschkoallee",
+                "12:24": "B\u00fcrgeramt Blaschkoallee",
+                "12:36": "B\u00fcrgeramt Blaschkoallee",
+                "12:48": "B\u00fcrgeramt Blaschkoallee",
+                "13:00": "B\u00fcrgeramt Blaschkoallee",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "14:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "14:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "14:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "14:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "14:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "15:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt Blaschkoallee",
+                "16:36": "B\u00fcrgeramt Blaschkoallee",
+                "16:48": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T08:55:03Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Wasserstadt",
+                "12:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:00:16Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Lichtenrade",
+                "": "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Lichtenrade",
+                "11:48": "B\u00fcrgeramt Lichtenrade",
+                "12:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Blaschkoallee",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:05:29Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Blaschkoallee",
+                "12:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Blaschkoallee",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Blaschkoallee",
+                "16:24": "B\u00fcrgeramt Blaschkoallee",
+                "17:12": "B\u00fcrgeramt Zwickauer Damm",
+                "17:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:10:43Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:15:57Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:21:11Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "11:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Lichtenrade",
+                "12:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Sonnenallee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:26:24Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:31:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:00": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "10:10": "B\u00fcrgeramt Heiligensee",
+                "10:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:50": "B\u00fcrgeramt Tegel - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:10": "B\u00fcrgeramt Heiligensee",
+                "11:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Karow / Buch",
+                "11:48": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter",
+                "12:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:10": "B\u00fcrgeramt Heiligensee",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter",
+                "12:20": "B\u00fcrgeramt M\u00e4rkisches Viertel",
+                "12:30": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "13:20": "B\u00fcrgeramt Tegel",
+                "14:00": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "14:20": "B\u00fcrgeramt Tegel",
+                "14:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Heerstra\u00dfe",
+                "14:50": "B\u00fcrgeramt Heiligensee",
+                "15:00": "B\u00fcrgeramt Zwickauer Damm",
+                "15:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "15:18": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "15:20": "B\u00fcrgeramt Tegel",
+                "15:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:50": "B\u00fcrgeramt Heiligensee",
+                "16:00": "B\u00fcrgeramt Heiligensee",
+                "16:06": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "16:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt Sch\u00f6neberg",
+                "16:30": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "16:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Heiligensee",
+                "17:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "17:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T09:36:53Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:42:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T09:47:21Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T09:52:29Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T09:57:38Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt Tegel",
+                "10:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "10:50": "B\u00fcrgeramt Heiligensee",
+                "11:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:10": "B\u00fcrgeramt Heiligensee",
+                "11:12": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:20": "B\u00fcrgeramt Tegel - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:40": "B\u00fcrgeramt M\u00e4rkisches Viertel",
+                "11:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:10": "B\u00fcrgeramt Heiligensee",
+                "12:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt M\u00e4rkisches Viertel",
+                "12:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter",
+                "12:42": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Tegel",
+                "13:42": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "14:00": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:20": "B\u00fcrgeramt Tegel",
+                "14:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "14:50": "B\u00fcrgeramt Heiligensee",
+                "15:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "15:18": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "15:30": "B\u00fcrgeramt Tegel",
+                "15:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:40": "B\u00fcrgeramt Heiligensee",
+                "16:00": "B\u00fcrgeramt Heiligensee",
+                "16:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "16:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "16:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "17:10": "B\u00fcrgeramt Heiligensee",
+                "17:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T10:02:51Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:24": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "10:50": "B\u00fcrgeramt Heiligensee",
+                "11:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:10": "B\u00fcrgeramt Heiligensee",
+                "11:12": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:20": "B\u00fcrgeramt Tegel - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "11:40": "B\u00fcrgeramt M\u00e4rkisches Viertel",
+                "11:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:10": "B\u00fcrgeramt Heiligensee",
+                "12:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Wasserstadt",
+                "12:20": "B\u00fcrgeramt M\u00e4rkisches Viertel",
+                "12:24": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:40": "B\u00fcrgeramt Tegel",
+                "13:42": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "13:48": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "14:40": "B\u00fcrgeramt Tegel",
+                "14:50": "B\u00fcrgeramt Heiligensee",
+                "15:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "15:18": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "15:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "15:40": "B\u00fcrgeramt Heiligensee",
+                "16:00": "B\u00fcrgeramt Heiligensee",
+                "16:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "16:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "17:20": "B\u00fcrgeramt Heiligensee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T10:08:05Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-13T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:13:19Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:24": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:10": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:20": "B\u00fcrgeramt Tegel - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:40": "B\u00fcrgeramt Heiligensee",
+                "11:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:10": "B\u00fcrgeramt Heiligensee",
+                "12:12": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt M\u00e4rkisches Viertel",
+                "12:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "13:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+                "14:50": "B\u00fcrgeramt Heiligensee",
+                "15:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "15:40": "B\u00fcrgeramt Heiligensee",
+                "16:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "16:10": "B\u00fcrgeramt Heiligensee",
+                "16:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "17:20": "B\u00fcrgeramt Heiligensee"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:18:32Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-09-28T22:00:00Z": {},
+            "2023-10-09T22:00:00Z": {},
+            "2023-10-23T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:23:46Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:28:54Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "12:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Lichtenrade",
+                "14:36": "B\u00fcrgeramt Lichtenrade"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-09-14T22:00:00Z": {},
+            "2023-10-15T22:00:00Z": {},
+            "2023-10-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:34:08Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "14:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            },
+            "2023-10-29T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:39:22Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:44:31Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-24T22:00:00Z": {
+                "12:48": "B\u00fcrgeramt Karow / Buch"
+            },
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T10:49:44Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "14:12": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T10:54:58Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:50": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T11:00:13Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:00": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:10": "B\u00fcrgeramt Tegel - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T11:05:27Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "10:18": "B\u00fcrgeramt Wasserstadt",
+                "11:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "11:42": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "14:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "14:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T11:10:41Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "13:24": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T11:15:54Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T11:21:03Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "13:40": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "13:50": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "14:10": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "14:20": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "14:40": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "": "B\u00fcrgeramt Reinickendorf-Ost - Vorzugstermine",
+                "14:50": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "15:50": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "16:20": "B\u00fcrgeramt Heiligensee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T11:26:17Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "13:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Heiligensee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T11:31:29Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "14:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "14:10": "B\u00fcrgeramt Heiligensee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T11:36:42Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "13:48": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Heiligensee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T11:41:56Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-09T22:00:00Z": {
+                "15:12": "B\u00fcrgeramt Karow / Buch - Vorzugstermine"
+            },
+            "2023-11-06T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T11:47:09Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt Karow / Buch",
+                "15:12": "B\u00fcrgeramt Karow / Buch",
+                "15:24": "B\u00fcrgeramt Karow / Buch",
+                "15:36": "B\u00fcrgeramt Karow / Buch",
+                "15:48": "B\u00fcrgeramt Karow / Buch",
+                "16:00": "B\u00fcrgeramt Karow / Buch",
+                "16:12": "B\u00fcrgeramt Karow / Buch",
+                "16:24": "B\u00fcrgeramt Karow / Buch",
+                "16:36": "B\u00fcrgeramt Karow / Buch",
+                "16:48": "B\u00fcrgeramt Karow / Buch",
+                "17:12": "B\u00fcrgeramt Karow / Buch",
+                "17:24": "B\u00fcrgeramt Karow / Buch",
+                "17:36": "B\u00fcrgeramt Karow / Buch"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T11:52:23Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T11:57:31Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt Karow / Buch",
+                "15:24": "B\u00fcrgeramt Karow / Buch",
+                "15:36": "B\u00fcrgeramt Karow / Buch",
+                "15:48": "B\u00fcrgeramt Karow / Buch",
+                "16:00": "B\u00fcrgeramt Karow / Buch",
+                "16:12": "B\u00fcrgeramt Karow / Buch",
+                "16:24": "B\u00fcrgeramt Karow / Buch",
+                "16:36": "B\u00fcrgeramt Karow / Buch",
+                "16:48": "B\u00fcrgeramt Karow / Buch",
+                "17:24": "B\u00fcrgeramt Karow / Buch"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T12:02:44Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "12:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt Karow / Buch",
+                "15:48": "B\u00fcrgeramt Karow / Buch",
+                "16:12": "B\u00fcrgeramt Karow / Buch",
+                "16:36": "B\u00fcrgeramt Karow / Buch",
+                "16:48": "B\u00fcrgeramt Karow / Buch",
+                "17:24": "B\u00fcrgeramt Karow / Buch"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T12:07:58Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe"
+            },
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:13:12Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-22T22:00:00Z": {
+                "08:48": "B\u00fcrgeramt Tempelhof"
+            },
+            "2023-10-25T22:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:18:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "16:48": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            },
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:23:39Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-01T23:00:00Z": {
+                "16:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            },
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:28:50Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "11:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:34:04Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:39:12Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T12:44:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "13:12": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:54": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T12:49:35Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "15:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "15:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T12:54:48Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "15:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T13:00:03Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "15:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T13:05:16Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-10-30T23:00:00Z": {
+                "09:30": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine"
+            },
+            "2023-11-05T23:00:00Z": {},
+            "2023-11-06T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T13:10:26Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "15:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T13:15:38Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "13:24": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "": "B\u00fcrgeramt Wei\u00dfensee",
+                "13:42": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "14:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T13:20:52Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "13:12": "B\u00fcrgeramt Wedding",
+                "13:24": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "14:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "14:42": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T13:26:07Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "16:00": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T13:31:18Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "14:00": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            },
+            "2023-11-07T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T13:36:32Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "13:36": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:36": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "14:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T13:41:45Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "14:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:12": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:24": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T13:46:59Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "16:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Lichtenrade - Vorzugstermine"
+            },
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T13:52:13Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T13:57:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "16:12": "B\u00fcrgeramt Lichtenrade - Vorzugstermine",
+                "": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "16:18": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T14:02:35Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "15:24": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:36": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "15:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:07:48Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:12": "B\u00fcrgeramt Sonnenallee",
+                "08:24": "B\u00fcrgeramt Sonnenallee",
+                "08:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Sonnenallee",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Sonnenallee",
+                "09:48": "B\u00fcrgeramt Sonnenallee",
+                "10:12": "B\u00fcrgeramt Sonnenallee",
+                "10:36": "B\u00fcrgeramt Sonnenallee",
+                "10:48": "B\u00fcrgeramt Sonnenallee",
+                "11:12": "B\u00fcrgeramt Sonnenallee",
+                "11:24": "B\u00fcrgeramt Sonnenallee",
+                "11:36": "B\u00fcrgeramt Sonnenallee",
+                "12:12": "B\u00fcrgeramt Sonnenallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T14:12:59Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "16:24": "B\u00fcrgeramt Sonnenallee",
+                "16:36": "B\u00fcrgeramt Sonnenallee",
+                "": "B\u00fcrgeramt Zehlendorf",
+                "16:48": "B\u00fcrgeramt Sonnenallee",
+                "16:50": "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:18:12Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "15:48": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "16:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "16:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "16:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "17:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "17:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "17:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt K\u00f6penick"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:23:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "16:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "16:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:48": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine"
+            },
+            "2023-11-08T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:28:40Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:33:48Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:42": "B\u00fcrgeramt Helle Mitte",
+                "07:54": "B\u00fcrgeramt Helle Mitte",
+                "08:06": "B\u00fcrgeramt Helle Mitte",
+                "08:18": "B\u00fcrgeramt Helle Mitte",
+                "08:30": "B\u00fcrgeramt Helle Mitte",
+                "08:42": "B\u00fcrgeramt Helle Mitte",
+                "08:54": "B\u00fcrgeramt Helle Mitte",
+                "09:18": "B\u00fcrgeramt Helle Mitte",
+                "09:30": "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter",
+                "": "B\u00fcrgeramt Helle Mitte",
+                "09:42": "B\u00fcrgeramt Helle Mitte",
+                "09:54": "B\u00fcrgeramt Helle Mitte",
+                "10:06": "B\u00fcrgeramt Helle Mitte",
+                "10:30": "B\u00fcrgeramt Helle Mitte",
+                "10:42": "B\u00fcrgeramt Helle Mitte",
+                "13:30": "B\u00fcrgeramt Helle Mitte"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-10-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:39:01Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:44:08Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "17:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            },
+            "2023-09-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T14:49:21Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "16:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "16:36": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T14:54:34Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "16:24": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "16:48": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:00": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "17:12": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "17:24": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "17:36": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T14:59:48Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-17T22:00:00Z": {
+                "10:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:04:59Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "17:24": "B\u00fcrgeramt Tempelhof",
+                "17:48": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            },
+            "2023-09-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T15:10:12Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "17:48": "B\u00fcrgeramt Zehlendorf"
+            },
+            "2023-09-12T22:00:00Z": {},
+            "2023-09-14T22:00:00Z": {},
+            "2023-10-05T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T15:15:25Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-11T22:00:00Z": {},
+            "2023-09-12T22:00:00Z": {},
+            "2023-09-27T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T15:20:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "07:54": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "08:18": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "08:30": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "08:54": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:06": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:18": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:30": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:06": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:25:46Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-11T22:00:00Z": {
+                "17:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T15:31:00Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "08:54": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:36:14Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:06": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Pankow",
+                "": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Pankow",
+                "09:00": "B\u00fcrgeramt Pankow",
+                "09:12": "B\u00fcrgeramt Pankow",
+                "09:24": "B\u00fcrgeramt Pankow",
+                "09:36": "B\u00fcrgeramt Pankow",
+                "09:48": "B\u00fcrgeramt Pankow",
+                "10:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Pankow",
+                "10:18": "B\u00fcrgeramt Marzahner Promenade",
+                "10:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Pankow",
+                "10:48": "B\u00fcrgeramt Pankow",
+                "11:36": "B\u00fcrgeramt Pankow",
+                "12:00": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Pankow"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:41:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:06": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:46:40Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:18": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:51:54Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "11:48": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T15:57:07Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:18": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Lankwitz",
+                "": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Pankow - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Karow / Buch"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-11T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T16:02:20Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Blaschkoallee",
+                "08:12": "B\u00fcrgeramt Blaschkoallee",
+                "08:24": "B\u00fcrgeramt Blaschkoallee",
+                "08:36": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Sonnenallee",
+                "08:48": "B\u00fcrgeramt Blaschkoallee",
+                "09:00": "B\u00fcrgeramt Blaschkoallee",
+                "09:06": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Blaschkoallee",
+                "09:24": "B\u00fcrgeramt Blaschkoallee",
+                "09:36": "B\u00fcrgeramt Blaschkoallee",
+                "09:48": "B\u00fcrgeramt Blaschkoallee",
+                "10:00": "B\u00fcrgeramt Blaschkoallee",
+                "10:12": "B\u00fcrgeramt Blaschkoallee",
+                "10:24": "B\u00fcrgeramt Blaschkoallee",
+                "10:36": "B\u00fcrgeramt Blaschkoallee",
+                "10:48": "B\u00fcrgeramt Blaschkoallee",
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt Blaschkoallee",
+                "12:12": "B\u00fcrgeramt Blaschkoallee",
+                "12:24": "B\u00fcrgeramt Blaschkoallee",
+                "12:36": "B\u00fcrgeramt Blaschkoallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:07:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "07:54": "B\u00fcrgeramt Lankwitz",
+                "08:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "08:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "08:42": "B\u00fcrgeramt Lankwitz",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:12:46Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "07:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "07:54": "B\u00fcrgeramt Lankwitz",
+                "08:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "08:42": "B\u00fcrgeramt Lankwitz",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:06": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:18:00Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "07:54": "B\u00fcrgeramt Lankwitz",
+                "08:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Lankwitz",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:06": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:54": "B\u00fcrgeramt Helle Mitte",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "13:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            },
+            "2023-10-22T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T16:23:13Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:54": "B\u00fcrgeramt Helle Mitte",
+                "08:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "": "B\u00fcrgeramt Blaschkoallee",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "12:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:28:26Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:54": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "08:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt Blaschkoallee",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Helle Mitte",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Blaschkoallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:33:39Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "08:24": "B\u00fcrgeramt Karow / Buch",
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt Blaschkoallee",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Helle Mitte",
+                "10:48": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "11:24": "B\u00fcrgeramt Blaschkoallee",
+                "11:36": "B\u00fcrgeramt Blaschkoallee",
+                "11:48": "B\u00fcrgeramt Blaschkoallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:38:52Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "": "B\u00fcrgeramt Zwickauer Damm",
+                "08:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "08:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "08:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "09:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "09:12": "B\u00fcrgeramt Blaschkoallee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Helle Mitte",
+                "10:48": "B\u00fcrgeramt Blaschkoallee",
+                "11:00": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:24": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "11:36": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Rathaus Neuk\u00f6lln"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:44:06Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "08:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Blaschkoallee",
+                "09:18": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Blaschkoallee",
+                "12:00": "B\u00fcrgeramt Zwickauer Damm",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Blaschkoallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:49:19Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Blaschkoallee",
+                "": "B\u00fcrgeramt Blaschkoallee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Helle Mitte",
+                "10:48": "B\u00fcrgeramt Blaschkoallee",
+                "11:12": "B\u00fcrgeramt Blaschkoallee",
+                "12:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "14:24": "B\u00fcrgeramt Lichtenrade"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:54:33Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "": "B\u00fcrgeramt Blaschkoallee",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Karow / Buch - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T16:59:47Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T17:05:02Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "14:42": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T17:10:16Z",
+        "msg": "got nothing, appts today: 9276",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T17:15:21Z",
+        "msg": "got nothing, appts today: 9288",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T17:20:27Z",
+        "msg": "got nothing, appts today: 9303",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T17:25:35Z",
+        "msg": "got nothing, appts today: 9316",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T17:30:40Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "12:54": "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T17:35:51Z",
+        "msg": "got nothing, appts today: 9323",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T17:40:58Z",
+        "msg": "got nothing, appts today: 9331",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T17:46:04Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "11:48": "B\u00fcrgeramt Blaschkoallee"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-10-04T22:00:00Z": {},
+            "2023-10-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T17:51:17Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-10-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T17:56:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-13T22:00:00Z": {
+                "17:36": "B\u00fcrgeramt Helle Mitte - Vorzugstermine"
+            },
+            "2023-10-16T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T18:01:44Z",
+        "msg": "got nothing, appts today: 9350",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:06:50Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            },
+            "2023-09-13T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T18:12:04Z",
+        "msg": "got nothing, appts today: 9363",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:17:09Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-01T23:00:00Z": {
+                "11:00": "B\u00fcrgeramt Rathaus Mitte"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T18:22:23Z",
+        "msg": "got nothing, appts today: 9375",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:27:26Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:32:32Z",
+        "msg": "got nothing, appts today: 9381",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:37:38Z",
+        "msg": "got nothing, appts today: 9392",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:42:44Z",
+        "msg": "got nothing, appts today: 9403",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:47:50Z",
+        "msg": "got nothing, appts today: 9405",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:52:55Z",
+        "msg": "got nothing, appts today: 9404",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T18:58:01Z",
+        "msg": "got nothing, appts today: 9408",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:03:07Z",
+        "msg": "got nothing, appts today: 9413",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:08:13Z",
+        "msg": "got nothing, appts today: 9416",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:13:18Z",
+        "msg": "got nothing, appts today: 9420",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:18:23Z",
+        "msg": "got nothing, appts today: 9431",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:23:29Z",
+        "msg": "got nothing, appts today: 9434",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:28:34Z",
+        "msg": "got nothing, appts today: 9442",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:33:40Z",
+        "msg": "got nothing, appts today: 9449",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:38:45Z",
+        "msg": "got nothing, appts today: 9455",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:43:51Z",
+        "msg": "got nothing, appts today: 9463",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:48:56Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-11-05T23:00:00Z": {
+                "12:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T19:54:09Z",
+        "msg": "got nothing, appts today: 9471",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T19:59:15Z",
+        "msg": "got nothing, appts today: 9477",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:04:20Z",
+        "msg": "got nothing, appts today: 9481",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:09:26Z",
+        "msg": "got nothing, appts today: 9483",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:14:31Z",
+        "msg": "got nothing, appts today: 9490",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:19:36Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "12:12": "B\u00fcrgeramt Blaschkoallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T20:24:50Z",
+        "msg": "got nothing, appts today: 9498",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:29:56Z",
+        "msg": "got nothing, appts today: 9499",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:35:02Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T20:40:11Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "09:54": "B\u00fcrgeramt Marzahner Promenade"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T20:45:24Z",
+        "msg": "got nothing, appts today: 9514",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:50:32Z",
+        "msg": "got nothing, appts today: 9515",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T20:55:38Z",
+        "msg": "got nothing, appts today: 9517",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T21:00:45Z",
+        "msg": "got nothing, appts today: 9522",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T21:05:53Z",
+        "msg": "got nothing, appts today: 9525",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T21:11:00Z",
+        "msg": "got nothing, appts today: 9532",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T21:16:05Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T21:21:19Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "07:54": "B\u00fcrgeramt Helle Mitte",
+                "08:36": "B\u00fcrgeramt Pankow - Vorzugstermine"
+            },
+            "2023-09-13T22:00:00Z": {},
+            "2023-09-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T21:26:31Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt Sch\u00f6neweide"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T21:31:45Z",
+        "msg": "got nothing, appts today: 9541",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T21:36:50Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T21:42:05Z",
+        "msg": "got nothing, appts today: 9546",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T21:47:10Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:06": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T21:52:24Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-08T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-12T21:57:37Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-10-25T22:00:00Z": {
+                "12:36": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine"
+            },
+            "2023-11-05T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-12T22:02:52Z",
+        "msg": "got nothing, appts today: 1",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:07:55Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:12:59Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:18:03Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:23:09Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:28:12Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:33:16Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:38:20Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:43:23Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:48:28Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:53:32Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T22:58:37Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:03:40Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:08:44Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:13:47Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:18:51Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:23:55Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:28:58Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:34:02Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:39:07Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:44:13Z",
+        "msg": "got nothing, appts today: 5",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:49:19Z",
+        "msg": "got nothing, appts today: 7",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:54:24Z",
+        "msg": "got nothing, appts today: 10",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-12T23:59:30Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-12T22:00:00Z": {
+                "08:06": "B\u00fcrgeramt Lankwitz - Vorzugstermine"
+            }
+        }
+    }
+]

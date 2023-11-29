@@ -1,0 +1,2189 @@
+[
+    {
+        "time": "2023-09-20T00:01:00Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:06:09Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:48": "B\u00fcrgeramt Sonnenallee"
+            },
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:11:23Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:16:33Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:21:43Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-30T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:26:53Z",
+        "msg": "got nothing, appts today: 24",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T00:32:00Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:18": "B\u00fcrgeramt K\u00f6penick"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T00:37:12Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:36": "B\u00fcrgeramt Tempelhof - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T00:42:24Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:47:34Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T00:52:43Z",
+        "msg": "got nothing, appts today: 29",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T00:57:50Z",
+        "msg": "got nothing, appts today: 30",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T01:02:57Z",
+        "msg": "got nothing, appts today: 30",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T01:08:04Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:36": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T01:13:15Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T01:18:23Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T01:23:34Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T01:28:43Z",
+        "msg": "got nothing, appts today: 31",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T01:33:50Z",
+        "msg": "got nothing, appts today: 32",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T01:38:57Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T01:44:06Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:18": "B\u00fcrgeramt K\u00f6penick",
+                "11:24": "B\u00fcrgeramt Sonnenallee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T01:49:21Z",
+        "msg": "got nothing, appts today: 35",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T01:54:27Z",
+        "msg": "got nothing, appts today: 35",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T01:59:33Z",
+        "msg": "got nothing, appts today: 35",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:04:40Z",
+        "msg": "got nothing, appts today: 37",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:09:47Z",
+        "msg": "got nothing, appts today: 37",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:14:53Z",
+        "msg": "got nothing, appts today: 37",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:20:00Z",
+        "msg": "got nothing, appts today: 37",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:25:06Z",
+        "msg": "got nothing, appts today: 37",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:30:12Z",
+        "msg": "got nothing, appts today: 37",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:35:19Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:40:26Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:45:32Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:50:39Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T02:55:46Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:00:52Z",
+        "msg": "got nothing, appts today: 38",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:05:58Z",
+        "msg": "got nothing, appts today: 40",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:11:05Z",
+        "msg": "got nothing, appts today: 40",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:16:12Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T03:21:22Z",
+        "msg": "got nothing, appts today: 41",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:26:29Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T03:31:39Z",
+        "msg": "got nothing, appts today: 44",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:36:46Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T03:41:55Z",
+        "msg": "got nothing, appts today: 46",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:47:02Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T03:52:14Z",
+        "msg": "got nothing, appts today: 49",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T03:57:20Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "07:30": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            },
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T04:02:32Z",
+        "msg": "got nothing, appts today: 54",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:07:37Z",
+        "msg": "got nothing, appts today: 55",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:12:44Z",
+        "msg": "got nothing, appts today: 58",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:17:50Z",
+        "msg": "got nothing, appts today: 65",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:22:56Z",
+        "msg": "got nothing, appts today: 69",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:28:04Z",
+        "msg": "got nothing, appts today: 73",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:33:10Z",
+        "msg": "got nothing, appts today: 80",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:38:16Z",
+        "msg": "got nothing, appts today: 89",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:43:22Z",
+        "msg": "got nothing, appts today: 93",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:48:29Z",
+        "msg": "got nothing, appts today: 105",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:53:36Z",
+        "msg": "got nothing, appts today: 117",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T04:58:43Z",
+        "msg": "got nothing, appts today: 157",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T05:03:48Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:08:58Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-01T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:14:08Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:19:17Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:24:27Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:29:36Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:34:46Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:39:55Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "08:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+                "": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "08:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Zwickauer Damm",
+                "09:18": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Zwickauer Damm",
+                "09:30": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Zwickauer Damm",
+                "09:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Zwickauer Damm",
+                "09:54": "B\u00fcrgeramt Lankwitz",
+                "10:06": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt Lankwitz",
+                "10:24": "B\u00fcrgeramt Zwickauer Damm",
+                "10:30": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Zwickauer Damm",
+                "10:42": "B\u00fcrgeramt Lankwitz",
+                "10:48": "B\u00fcrgeramt Zwickauer Damm",
+                "10:54": "B\u00fcrgeramt Lankwitz",
+                "11:06": "B\u00fcrgeramt Lankwitz",
+                "11:18": "B\u00fcrgeramt Lankwitz",
+                "11:30": "B\u00fcrgeramt Lankwitz",
+                "11:42": "B\u00fcrgeramt Lankwitz",
+                "11:48": "B\u00fcrgeramt Zwickauer Damm",
+                "11:54": "B\u00fcrgeramt Lankwitz",
+                "12:06": "B\u00fcrgeramt Lankwitz",
+                "12:18": "B\u00fcrgeramt Lankwitz",
+                "12:30": "B\u00fcrgeramt Lankwitz",
+                "12:42": "B\u00fcrgeramt Lankwitz",
+                "12:48": "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+                "12:54": "B\u00fcrgeramt Lankwitz",
+                "13:06": "B\u00fcrgeramt Lankwitz",
+                "13:18": "B\u00fcrgeramt Lankwitz",
+                "13:30": "B\u00fcrgeramt Lankwitz",
+                "13:42": "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt Lankwitz",
+                "14:06": "B\u00fcrgeramt Lankwitz",
+                "14:18": "B\u00fcrgeramt Lankwitz"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T05:45:09Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:50:19Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T05:55:28Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:00:37Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-29T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:05:46Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {},
+            "2023-10-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:10:56Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-10-17T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:16:07Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:21:16Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:26:24Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:31:36Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:36:47Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:41:55Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt K\u00f6penick",
+                "09:12": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:18": "B\u00fcrgeramt K\u00f6penick",
+                "09:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "10:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Zehlendorf - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt K\u00f6penick",
+                "11:06": "B\u00fcrgeramt K\u00f6penick",
+                "11:12": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt K\u00f6penick",
+                "11:24": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt K\u00f6penick",
+                "11:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt K\u00f6penick",
+                "11:48": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt K\u00f6penick",
+                "12:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt K\u00f6penick",
+                "12:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:42": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen) Sondertermine 2",
+                "12:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt K\u00f6penick",
+                "13:06": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen) Sondertermine 2",
+                "13:30": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen) Sondertermine 2"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T06:47:07Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "10:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+                "10:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt K\u00f6penick",
+                "11:30": "B\u00fcrgeramt K\u00f6penick",
+                "11:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Zehlendorf"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T06:52:20Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T06:57:29Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:02:38Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T07:07:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:13:01Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-28T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:18:11Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:30": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt",
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Wasserstadt",
+                "10:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Wasserstadt",
+                "10:36": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+                "10:42": "B\u00fcrgeramt Steglitz - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T07:23:24Z",
+        "msg": "Completed booking",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Wasserstadt",
+                "09:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt Sch\u00f6neweide",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:50": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Wasserstadt",
+                "10:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt Sch\u00f6neweide",
+                "10:24": "B\u00fcrgeramt Blaschkoallee",
+                "10:30": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "12:20": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt K\u00f6penick",
+                "13:42": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "14:54": "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen) Sondertermine 2"
+            },
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:28:39Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "09:40": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "": "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+                "09:50": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Sonnenallee - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T07:33:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-24T22:00:00Z": {},
+            "2023-09-25T22:00:00Z": {},
+            "2023-10-11T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:38:59Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:44:09Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Tempelhof",
+                "10:12": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+                "13:10": "B\u00fcrgeramt Reinickendorf-Ost",
+                "13:12": "B\u00fcrgeramt Pankow",
+                "13:24": "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze"
+            },
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-11T22:00:00Z": {},
+            "2023-10-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:49:21Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-19T22:00:00Z": {
+                "10:00": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "10:10": "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Biesdorf - Center"
+            },
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:54:33Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T07:59:43Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-16T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:04:52Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:10:01Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:15:11Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-16T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:20:20Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "07:54": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "08:06": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "08:18": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+                "08:30": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "08:54": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:06": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "09:18": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:30": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:48": "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T08:25:32Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:30:41Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-24T22:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:35:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:41:00Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:46:09Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T08:51:19Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "08:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "": "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+                "08:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "08:42": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "08:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "08:54": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Wasserstadt",
+                "09:30": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "10:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+                "12:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "12:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "13:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T08:56:31Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-09T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:01:39Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:06:48Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-16T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:11:57Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:17:05Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "08:54": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "09:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:18": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "09:24": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:36": "B\u00fcrgeramt Wasserstadt - Vorzugstermine",
+                "09:42": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "09:48": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "09:54": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "10:12": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "10:18": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+                "10:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:30": "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+                "10:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:42": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "10:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "10:54": "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine",
+                "11:00": "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+                "11:06": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:18": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+                "11:30": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:42": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+                "11:54": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:06": "B\u00fcrgeramt 2 (Lichtenberg)",
+                "12:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:18": "B\u00fcrgeramt 2 (Lichtenberg)",
+                "12:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:30": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "12:36": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:42": "B\u00fcrgeramt 2 (Lichtenberg)",
+                "12:48": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "12:54": "B\u00fcrgeramt 2 (Lichtenberg)",
+                "13:00": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:06": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "13:12": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:18": "B\u00fcrgeramt 2 (Lichtenberg)",
+                "13:24": "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine",
+                "13:30": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+                "13:42": "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine"
+            },
+            "2023-11-16T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:22:17Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-16T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:27:27Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:32:35Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-16T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:37:43Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-24T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {},
+            "2023-10-10T22:00:00Z": {},
+            "2023-10-17T22:00:00Z": {},
+            "2023-10-29T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:42:52Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:48:01Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:53:10Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "11:00": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:12": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:24": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:36": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Sonnenallee",
+                "": "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+                "12:12": "B\u00fcrgeramt Sonnenallee",
+                "12:24": "B\u00fcrgeramt Sonnenallee",
+                "12:36": "B\u00fcrgeramt Sonnenallee",
+                "12:48": "B\u00fcrgeramt Sonnenallee",
+                "13:00": "B\u00fcrgeramt Sonnenallee",
+                "13:12": "B\u00fcrgeramt Sonnenallee",
+                "13:36": "B\u00fcrgeramt Sonnenallee",
+                "13:48": "B\u00fcrgeramt Sonnenallee",
+                "14:24": "B\u00fcrgeramt Sonnenallee",
+                "14:36": "B\u00fcrgeramt Sonnenallee",
+                "14:48": "B\u00fcrgeramt Sonnenallee",
+                "15:12": "B\u00fcrgeramt Sonnenallee",
+                "15:24": "B\u00fcrgeramt Sonnenallee",
+                "15:36": "B\u00fcrgeramt Sonnenallee",
+                "15:48": "B\u00fcrgeramt Sonnenallee",
+                "16:00": "B\u00fcrgeramt Sonnenallee"
+            },
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {},
+            "2023-09-27T22:00:00Z": {},
+            "2023-10-08T22:00:00Z": {},
+            "2023-10-10T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T09:58:22Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:03:31Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-25T22:00:00Z": {},
+            "2023-10-29T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:08:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:13:50Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-25T22:00:00Z": {},
+            "2023-11-05T23:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:18:59Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-06T23:00:00Z": {
+                "12:00": "B\u00fcrgeramt Biesdorf - Center"
+            },
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:24:12Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:29:22Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-09T23:00:00Z": {},
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:34:32Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:39:42Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-09-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:44:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-24T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:50:01Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T10:55:11Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:00:20Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:05:30Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:10:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:15:49Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:20:57Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:26:06Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:31:15Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-11-14T23:00:00Z": {
+                "13:42": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+                "13:54": "B\u00fcrgeramt K\u00f6penick - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T11:36:28Z",
+        "msg": "got nothing, appts today: 6482",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T11:41:35Z",
+        "msg": "got nothing, appts today: 6524",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T11:46:42Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-12T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:51:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-03T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T11:56:59Z",
+        "msg": "got nothing, appts today: 6468",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T12:02:07Z",
+        "msg": "got nothing, appts today: 6466",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T12:07:13Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-19T22:00:00Z": {},
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-10-10T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {},
+            "2023-10-22T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:12:23Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {},
+            "2023-11-15T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:17:31Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:22:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-01T23:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:27:50Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:32:59Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:38:09Z",
+        "msg": "got nothing, appts today: 6718",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T12:43:15Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:48:24Z",
+        "msg": "Date but no timeslots",
+        "appts": {
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T12:53:34Z",
+        "msg": "got nothing, appts today: 6868",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T12:58:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:03:50Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-26T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:08:58Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-26T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:14:08Z",
+        "msg": "got nothing, appts today: 7025",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T13:19:15Z",
+        "msg": "got nothing, appts today: 7040",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T13:24:22Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:29:31Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:34:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:39:49Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T13:44:58Z",
+        "msg": "got nothing, appts today: 7227",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T13:50:05Z",
+        "msg": "got nothing, appts today: 7234",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T13:55:12Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:00:22Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-11T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {},
+            "2023-10-23T22:00:00Z": {},
+            "2023-10-25T22:00:00Z": {},
+            "2023-10-30T23:00:00Z": {},
+            "2023-11-01T23:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:05:32Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-01T23:00:00Z": {},
+            "2023-11-06T23:00:00Z": {},
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:10:42Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:15:51Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-08T23:00:00Z": {},
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:21:01Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-13T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:26:10Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-23T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:31:19Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "14:12": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "16:12": "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine"
+            },
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-25T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {},
+            "2023-10-09T22:00:00Z": {},
+            "2023-10-12T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:36:31Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "14:48": "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine"
+            },
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-27T22:00:00Z": {},
+            "2023-10-17T22:00:00Z": {},
+            "2023-10-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:41:43Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:46:52Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-19T22:00:00Z": {},
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:52:02Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-14T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T14:57:10Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-04T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T15:02:20Z",
+        "msg": "got nothing, appts today: 7651",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:07:26Z",
+        "msg": "got nothing, appts today: 7660",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:12:33Z",
+        "msg": "got nothing, appts today: 7664",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:17:40Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T15:22:50Z",
+        "msg": "got nothing, appts today: 7688",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:27:57Z",
+        "msg": "got nothing, appts today: 7698",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:33:04Z",
+        "msg": "got nothing, appts today: 7710",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:38:10Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T15:43:19Z",
+        "msg": "got nothing, appts today: 7741",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:48:26Z",
+        "msg": "got nothing, appts today: 7746",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:53:32Z",
+        "msg": "got nothing, appts today: 7748",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T15:58:39Z",
+        "msg": "got nothing, appts today: 7762",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:03:42Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:08:47Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:13:52Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:18:56Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:24:00Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:29:05Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:34:10Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:39:15Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:44:20Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:49:25Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:54:29Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T16:59:34Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:04:39Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:09:43Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:14:48Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:19:51Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:24:56Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:30:00Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:35:05Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:40:09Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:45:13Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:50:18Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T17:55:24Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {},
+            "2023-09-24T22:00:00Z": {},
+            "2023-09-26T22:00:00Z": {},
+            "2023-09-27T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {},
+            "2023-10-19T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T18:00:36Z",
+        "msg": "got nothing, appts today: 7783",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T18:05:44Z",
+        "msg": "got nothing, appts today: 7787",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T18:10:50Z",
+        "msg": "got nothing, appts today: 7790",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T18:15:57Z",
+        "msg": "got nothing, appts today: 7799",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T18:21:03Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T18:26:13Z",
+        "msg": "got nothing, appts today: 7807",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T18:31:19Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T18:36:29Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-21T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T18:41:38Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-10-18T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T18:46:47Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-09T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T18:51:57Z",
+        "msg": "got nothing, appts today: 7831",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T18:57:04Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-25T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T19:02:15Z",
+        "msg": "got nothing, appts today: 7838",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:07:20Z",
+        "msg": "got nothing, appts today: 7843",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:12:26Z",
+        "msg": "got nothing, appts today: 7850",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:17:34Z",
+        "msg": "got nothing, appts today: 7859",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:22:41Z",
+        "msg": "got nothing, appts today: 7865",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:27:47Z",
+        "msg": "got nothing, appts today: 7866",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:32:54Z",
+        "msg": "got nothing, appts today: 7875",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:38:00Z",
+        "msg": "got nothing, appts today: 7880",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:43:07Z",
+        "msg": "got nothing, appts today: 7889",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:48:13Z",
+        "msg": "got nothing, appts today: 7892",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:53:20Z",
+        "msg": "got nothing, appts today: 7893",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T19:58:27Z",
+        "msg": "got nothing, appts today: 7898",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:03:33Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-23T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T20:08:43Z",
+        "msg": "got nothing, appts today: 7906",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:13:49Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-11-12T23:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T20:18:59Z",
+        "msg": "got nothing, appts today: 7912",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:24:06Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "15:00": "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T20:29:19Z",
+        "msg": "got nothing, appts today: 7922",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:34:25Z",
+        "msg": "got nothing, appts today: 7924",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:39:32Z",
+        "msg": "got nothing, appts today: 7928",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:44:39Z",
+        "msg": "got nothing, appts today: 7932",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:49:46Z",
+        "msg": "got nothing, appts today: 7937",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T20:54:53Z",
+        "msg": "got nothing, appts today: 7944",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:00:00Z",
+        "msg": "got nothing, appts today: 7952",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:05:05Z",
+        "msg": "got nothing, appts today: 7953",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:10:12Z",
+        "msg": "got nothing, appts today: 7954",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:15:19Z",
+        "msg": "got nothing, appts today: 7954",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:20:28Z",
+        "msg": "got nothing, appts today: 7954",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:25:35Z",
+        "msg": "got nothing, appts today: 7953",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:30:41Z",
+        "msg": "got nothing, appts today: 7957",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:35:48Z",
+        "msg": "got nothing, appts today: 7964",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:40:56Z",
+        "msg": "got nothing, appts today: 7965",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T21:46:03Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "10:06": "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+                "14:40": "B\u00fcrgeramt Heiligensee"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T21:51:14Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-10-05T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T21:56:24Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {},
+            "2023-09-21T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T22:01:35Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:06:39Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:11:44Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:16:48Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:21:52Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:26:56Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:32:01Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:37:04Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:42:09Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:47:14Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:52:17Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T22:57:22Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:02:27Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:07:32Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:12:36Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:17:41Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:22:46Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:27:51Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:32:55Z",
+        "msg": "could not process response",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:38:02Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    },
+    {
+        "time": "2023-09-20T23:43:12Z",
+        "msg": "got nothing, appts today: 10",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:48:19Z",
+        "msg": "got nothing, appts today: 11",
+        "appts": {}
+    },
+    {
+        "time": "2023-09-20T23:53:25Z",
+        "msg": "Failed at last step",
+        "appts": {
+            "2023-09-20T22:00:00Z": {
+                "10:36": "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+                "11:48": "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine"
+            }
+        }
+    },
+    {
+        "time": "2023-09-20T23:58:38Z",
+        "msg": "Got a Captcha",
+        "appts": {
+            "2023-09-20T22:00:00Z": {}
+        }
+    }
+]

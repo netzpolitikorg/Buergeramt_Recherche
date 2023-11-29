@@ -1,0 +1,143 @@
+{
+    "Charlottenburg-Wilmersdorf": [
+        "B\u00fcrgeramt Halemweg (Au\u00dfenstelle)",
+        "B\u00fcrgeramt Heerstra\u00dfe",
+        "B\u00fcrgeramt Hohenzollerndamm (Fl\u00fcchtlingsb\u00fcrgeramt)",
+        "B\u00fcrgeramt Wilmersdorfer Stra\u00dfe",
+        "B\u00fcrgeramt Hohenzollerndamm - Vorzugstermine",
+        "B\u00fcrgeramt Wilmersdorfer Stra\u00dfe - Vorzugstermine",
+        "B\u00fcrgeramt Heerstra\u00dfe - Vorzugstermine"
+    ],
+    "Friedrichshain-Kreuzberg": [
+        "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe",
+        "B\u00fcrgeramt 2.0 Ausbildungsb\u00fcrgeramt Schlesische Str.",
+        "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee",
+        "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Vorzugstermine",
+        "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine",
+        "B\u00fcrgeramt 3 (Friedrichshain), Frankfurter Allee - Abholung von Dokumenten",
+        "B\u00fcrgeramt 1 (Kreuzberg), Yorckstra\u00dfe - Abholung von Dokumenten"
+    ],
+    "Lichtenberg": [
+        "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen)",
+        "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen)",
+        "B\u00fcrgeramt 2 (Lichtenberg)",
+        "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter",
+        "Mobiles B\u00fcrgeramt",
+        "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Abholung von Dokumenten",
+        "B\u00fcrgeramt 2 (Lichtenberg) - Abholung von Dokumenten",
+        "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Abholung von Dokumenten",
+        "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen) - Abholung von Dokumenten",
+        "B\u00fcrgeramt 1 (Neu- Hohensch\u00f6nhausen) - Vorzugstermine",
+        "B\u00fcrgeramt 2 (Lichtenberg) - Vorzugstermine",
+        "B\u00fcrgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine",
+        "Ausbildungsb\u00fcrgeramt (Alt- Hohensch\u00f6nhausen) Sondertermine 2",
+        "Ausbildungsb\u00fcrgeramt (Alt-Hohensch\u00f6nhausen) Sondertermine 1"
+    ],
+    "Marzahn-Hellersdorf": [
+        "B\u00fcrgeramt Biesdorf - Center",
+        "B\u00fcrgeramt Helle Mitte",
+        "B\u00fcrgeramt Marzahner Promenade",
+        "B\u00fcrgeramt Helle Mitte - Vorzugstermine",
+        "B\u00fcrgeramt Marzahner Promenade - Vorzugstermine",
+        "B\u00fcrgeramt Biesdorf - Center - Vorzugstermine"
+    ],
+    "Mitte": [
+        "B\u00fcrgeramt Rathaus Mitte",
+        "B\u00fcrgeramt Rathaus Tiergarten",
+        "B\u00fcrgeramt Wedding",
+        "B\u00fcrgeramt \u2013 Bereich Leistungen f\u00fcr Bildung und Teilhabe",
+        "Wohngeldberatung Mitte",
+        "B\u00fcrgeramt Rathaus Tiergarten - Vorzugstermine",
+        "B\u00fcrgeramt Wedding - Vorzugstermine",
+        "B\u00fcrgeramt Rathaus Mitte - Vorzugstermine",
+        "Fl\u00fcchtlingsb\u00fcrgeramt Rathaus Tiergarten",
+        "B\u00fcrgeramt Rathaus Tiergarten - Abholung von Dokumenten",
+        "B\u00fcrgeramt Wedding - Abholung von Dokumenten",
+        "B\u00fcrgeramt Rathaus Mitte - Abholung von Dokumenten",
+        "B\u00fcrgeramt 4 (Fl\u00fcchtlingsb\u00fcrgeramt Mitte) - Vorzugstermine",
+        "B\u00fcrgeramt Klosterstra\u00dfe - Vorzugstermine",
+        "B\u00fcrgeramt Klosterstra\u00dfe - Abholung von Dokumenten",
+        "B\u00fcrgeramt Wedding - Stra\u00dfenumbenennungen L\u00fcderitzstra\u00dfe / Nachtigalplatz"
+    ],
+    "Neuk\u00f6lln": [
+        "B\u00fcrgeramt Rathaus Neuk\u00f6lln",
+        "B\u00fcrgeramt Sonnenallee",
+        "B\u00fcrgeramt Blaschkoallee",
+        "B\u00fcrgeramt Zwickauer Damm",
+        "Mobiles B\u00fcrgeramt Rudow",
+        "Mobiles B\u00fcrgeramt Alt-Buckow",
+        "B\u00fcrgeramt Sonnenallee - Vorzugstermine",
+        "B\u00fcrgeramt Rathaus Neuk\u00f6lln - Vorzugstermine",
+        "B\u00fcrgeramt Zwickauer Damm - Vorzugstermine",
+        "B\u00fcrgeramt Blaschkoallee - Vorzugstermine"
+    ],
+    "Pankow": [
+        "B\u00fcrgeramt Wei\u00dfensee",
+        "B\u00fcrgeramt Prenzlauer Berg",
+        "B\u00fcrgeramt Pankow",
+        "B\u00fcrgeramt Karow / Buch",
+        "B\u00fcrgeramt Prenzlauer Berg - Parkraumbewirtschaftung",
+        "B\u00fcrgeramt Pankow - Vorzugstermine",
+        "B\u00fcrgeramt Wei\u00dfensee - Vorzugstermine",
+        "B\u00fcrgeramt Prenzlauer Berg - Vorzugstermine",
+        "B\u00fcrgeramt Wei\u00dfensee - Abholung von Dokumenten",
+        "B\u00fcrgeramt Karow / Buch - Abholung von Dokumenten",
+        "B\u00fcrgeramt Prenzlauer Berg - Abholung von Dokumenten",
+        "B\u00fcrgeramt Pankow - Abholung von Dokumenten",
+        "B\u00fcrgeramt Karow / Buch - Vorzugstermine"
+    ],
+    "Reinickendorf": [
+        "B\u00fcrgeramt Rathaus Reinickendorf",
+        "B\u00fcrgeramt Tegel",
+        "B\u00fcrgeramt Reinickendorf-Ost",
+        "B\u00fcrgeramt Heiligensee",
+        "B\u00fcrgeramt M\u00e4rkisches Viertel",
+        "Mobiles B\u00fcrgeramt Hermsdorf",
+        "B\u00fcrgeramt Rathaus Reinickendorf - Vorzugstermine",
+        "B\u00fcrgeramt Tegel - Vorzugstermine",
+        "B\u00fcrgeramt Reinickendorf-Ost - Vorzugstermine",
+        "B\u00fcrgeramt Heiligensee - Vorzugstermine",
+        "B\u00fcrgeramt M\u00e4rkisches Viertel - Vorzugstermine",
+        "Mobiles B\u00fcrgeramt Alt-Heiligensee"
+    ],
+    "Spandau": [
+        "B\u00fcrgeramt Wasserstadt",
+        "B\u00fcrgeramt Rathaus Spandau",
+        "B\u00fcrgerb\u00fcro Kladow",
+        "B\u00fcrgerb\u00fcro Falkenhagener Feld",
+        "B\u00fcrgeramt Rathaus Spandau - Vorzugstermine",
+        "B\u00fcrgeramt Rathaus Spandau - Abholung von Dokumenten",
+        "B\u00fcrgeramt Wasserstadt - Abholung von Dokumenten",
+        "B\u00fcrgeramt Wasserstadt - Vorzugstermine"
+    ],
+    "Steglitz-Zehlendorf": [
+        "B\u00fcrgeramt Zehlendorf",
+        "B\u00fcrgeramt Steglitz",
+        "B\u00fcrgeramt Lankwitz",
+        "B\u00fcrgeramt Lankwitz - Vorzugstermine",
+        "B\u00fcrgeramt Steglitz - Vorzugstermine",
+        "B\u00fcrgeramt Steglitz - Anwohner-/ Bewohnerparkausweis",
+        "B\u00fcrgeramt Zehlendorf - Vorzugstermine"
+    ],
+    "Tempelhof-Sch\u00f6neberg": [
+        "B\u00fcrgeramt Lichtenrade",
+        "B\u00fcrgeramt Sch\u00f6neberg",
+        "B\u00fcrgeramt Tempelhof",
+        "B\u00fcrgeramt Lichtenrade - Vorzugstermine",
+        "B\u00fcrgeramt Sch\u00f6neberg - Vorzugstermine",
+        "B\u00fcrgeramt Tempelhof - Vorzugstermine",
+        "B\u00fcrgeramt Tempelhof-Sch\u00f6neberg Backoffice",
+        "B\u00fcrgeramt Sch\u00f6neberg Ausbildungsarbeitspl\u00e4tze",
+        "B\u00fcrgeramt Tempelhof - Abholung von Dokumenten",
+        "B\u00fcrgeramt Sch\u00f6neberg - Abholung von Dokumenten",
+        "B\u00fcrgeramt Lichtenrade - Abholung von Dokumenten"
+    ],
+    "Treptow-K\u00f6penick": [
+        "B\u00fcrgeramt K\u00f6penick",
+        "B\u00fcrgeramt Sch\u00f6neweide",
+        "B\u00fcrgeramt K\u00f6penick - Vorzugstermine",
+        "B\u00fcrgeramt Sch\u00f6neweide - Vorzugstermine",
+        "B\u00fcrgeramt K\u00f6penick - Abholung von Dokumenten",
+        "B\u00fcrgeramt Sch\u00f6neweide - Abholung von Dokumenten"
+    ]
+}
